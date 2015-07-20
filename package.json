@@ -1,0 +1,36 @@
+{
+  "name": "comedians",
+  "version": "0.0.0",
+  "description": "A directory of comedians I like and want to keep tabs on.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bmcminn/comedians"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bmcminn/comedians/issues"
+  },
+  "homepage": "https://github.com/bmcminn/comedians",
+  "devDependencies": {
+    "grunt-contrib-stylus": "~0.21.0",
+    "grunt": "~0.4.5",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-browserify": "~3.8.0",
+    "grunt-php": "~1.5.0",
+    "time-grunt": "~1.2.1",
+    "load-grunt-config": "~0.17.2",
+    "grunt-contrib-jshint": "~0.11.2",
+    "grunt-jsonlint": "~1.0.4",
+    "chalk": "~1.1.0"
+  },
+  "dependencies": {
+    "jqlite": "~0.2.5",
+    "lodash": "~3.10.0",
+    "handlebars": "~3.0.3"
+  }
+}
