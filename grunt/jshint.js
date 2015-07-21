@@ -9,10 +9,18 @@ module.exports = {
       ignores: [
 
       ]
-    , undef: true
+
+    , curly: true
+    , eqeqeq: true
+    , freeze: true
+    , latedef: true
     , laxbreak: true
     , laxcomma: true
-    , unused: true
+    , undef: true
+    , unused: false
+
+    // , browser: true
+
     , globals: {
         console: true
       , window: true
@@ -25,7 +33,7 @@ module.exports = {
       }
     }
   , src: [
-      'app/js/*.js'
+      '_js/*.js'
     ]
 	}
 };

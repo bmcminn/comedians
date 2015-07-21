@@ -5,7 +5,7 @@ var path    = require('path')
 
 config = {
   port: 3005
-, hostname: 'localhost'
+, hostname: '192.168.1.82'
 // , routerFile: 'index.html'
 , routerFile: null
 , devbase: './app'
@@ -25,7 +25,6 @@ module.exports = {
         error_log: path.resolve(config.devbase, config.errorlogs)
       , log_errors: 1
       , display_errors: 1
-      ,
       }
     }
   },

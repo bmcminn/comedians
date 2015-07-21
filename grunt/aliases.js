@@ -7,13 +7,13 @@ module.exports = function(grunt) {
   , 'jsonlint'
   , 'browserify'
   , 'stylus:dev'
-  , 'php:dev'
+  // , 'php:dev'
   ]);
 
   grunt.registerTask('build', [
     'jshint'
   , 'jsonlint'
   , 'stylus:build'
-  , 'php:build'
+  // , 'php:build'
   ]);
 };

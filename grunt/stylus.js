@@ -8,7 +8,7 @@ module.exports = {
   	, linenos: true
   	}
 	, files: {
-      'app/build/main.css': 'app/stylus/main.styl'
+      'app/build/main.css': '_stylus/main.styl'
     }
   }
 };

@@ -8,7 +8,7 @@ module.exports = {
       spawn: false
     },
     files: [
-      "app/js/**.js"
+      "_js/**.js"
     ],
     tasks: [
       "jshint", "jsonlint", "browserify"
@@ -20,7 +20,7 @@ module.exports = {
       spawn: false
     },
     files: [
-      "app/stylus/**/*.styl"
+      "_stylus/**/*.styl"
     ],
     tasks: [
       "stylus"
