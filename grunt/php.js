@@ -5,7 +5,8 @@ var path    = require('path')
 
 config = {
   port: 3005
-, hostname: '192.168.1.82'
+// , hostname: '192.168.1.82'
+, hostname: '10.20.60.68'
 // , routerFile: 'index.html'
 , routerFile: null
 , devbase: './app'

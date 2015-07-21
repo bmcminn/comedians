@@ -10,6 +10,5 @@ module.exports = {
   , files: {
       'app/build/main.js': '_js/main.js'
     }
-
 	}
 };
