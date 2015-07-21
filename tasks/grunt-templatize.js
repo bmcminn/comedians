@@ -19,7 +19,7 @@ module.exports = function(grunt) {
 
     _.each(views, function(view) {
 
-      template.filename = path.basename(view);
+      template.filename = path.basename(view, opt.ext);
       template.content = grunt.file.read(view);
 
       template.render += [

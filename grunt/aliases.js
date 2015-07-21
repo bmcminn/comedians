@@ -7,6 +7,7 @@ module.exports = function(grunt) {
   , 'jsonlint'
   , 'browserify'
   , 'stylus:dev'
+  , 'templatize'
   ]);
 
   grunt.registerTask('build', [
@@ -15,5 +16,6 @@ module.exports = function(grunt) {
   , 'stylus:build'
   , 'browserify'
   , 'uglify'
+  , 'templatize'
   ]);
 };
