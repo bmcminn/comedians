@@ -1,1 +1,28 @@
-body{background:#f90;font-family:sans-serif}ul{margin:0;padding:0}.comedian-list{list-style:none}.comedian-list-item .name{text-transform:capitalize}
+
+/* line 32 : d:\github\comedians\_stylus\main.styl */
+
+/* line 1 : d:\github\comedians\node_modules\grunt-contrib-stylus\node_modules\stylus\lib\functions\index.styl */
+
+/* line 16 : d:\github\comedians\_stylus\main.styl */
+body {
+  background: #f90;
+  font-family: sans-serif;
+}
+
+/* line 21 : d:\github\comedians\_stylus\main.styl */
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+/* line 26 : d:\github\comedians\_stylus\main.styl */
+.comedian-list {
+  list-style: none;
+}
+
+/* line 29 : d:\github\comedians\_stylus\main.styl */
+
+/* line 31 : d:\github\comedians\_stylus\main.styl */
+.comedian-list-item .name {
+  text-transform: capitalize;
+}

@@ -15,6 +15,18 @@ module.exports = {
     ]
   }
 
+, hbs: {
+    options: {
+      spawn: false
+    }
+  , files: [
+      "_views/**.hbs"
+    ],
+    tasks: [
+      "templatize"
+    ]
+  }
+
 , styl: {
     options: {
       spawn: false

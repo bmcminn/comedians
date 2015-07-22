@@ -11,4656 +11,7382 @@
     "name": {
       "first": "tom",
       "last": "agna"
-      },
-    "rating": 0,
+    },
+    "rating": null,
     "notes": ""
   },
   {
     "name": {
       "first": "david",
       "last": "agyekum"
-      },
-    "rating": 0,
+    },
+    "rating": null,
     "notes": ""
   },
   {
     "name": {
       "first": "dan",
       "last": "ahdoot"
-      },
-    "rating": 0,
+    },
+    "rating": null,
     "notes": ""
   },
   {
     "name": {
       "first": "franklyn",
       "last": "ajaye"
-      },
-    "rating": 0,
+    },
+    "rating": null,
     "notes": ""
   },
   {
     "name": {
       "first": "carlos",
       "last": "alazraqui"
-      },
-    "rating": 0,
+    },
+    "rating": null,
     "notes": ""
   },
   {
     "name": {
       "first": "rory",
       "last": "albanese"
-      },
-    "rating": 0,
+    },
+    "rating": null,
     "notes": ""
   },
   {
     "name": {
       "first": "jimmy",
       "last": "aleck"
-      },
-    "rating": 0,
+    },
+    "rating": null,
     "notes": ""
   },
   {
     "name": {
       "first": "ted",
       "last": "alexandro"
-      },
-    "rating": 0,
+    },
+    "rating": null,
     "notes": ""
   },
   {
     "name": {
       "first": "asif",
       "last": "ali"
-      },
-    "rating": 0,
+    },
+    "rating": null,
     "notes": ""
   },
   {
     "name": {
       "first": "dan",
       "last": "allen"
-      },
-    "rating": 0,
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "jeff allen",
-    "rating": 0,
+    "name": {
+      "first": "jeff",
+      "last": "allen"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "leo allen",
-    "rating": 0,
+    "name": {
+      "first": "leo",
+      "last": "allen"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "cristela alonzo",
-    "rating": 0,
+    "name": {
+      "first": "cristela",
+      "last": "alonzo"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "jeff altman",
-    "rating": 0,
+    "name": {
+      "first": "jeff",
+      "last": "altman"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "larry amoros",
-    "rating": 0,
+    "name": {
+      "first": "larry",
+      "last": "amoros"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "cy amundson",
-    "rating": 0,
+    "name": {
+      "first": "cy",
+      "last": "amundson"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "amy anderson",
-    "rating": 0,
+    "name": {
+      "first": "amy",
+      "last": "anderson"
+    },
+    "rating": null,
     "notes": "",
     "albums": [
       {
-        "name": "I Failed Math"
-      , "spotify": true
+        "name": "I Failed Math",
+        "spotify": true
       }
     ]
   },
   {
-    "name": "austin anderson",
-    "rating": 0,
+    "name": {
+      "first": "austin",
+      "last": "anderson"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "k.p. anderson",
-    "rating": 0,
+    "name": {
+      "first": "k.p.",
+      "last": "anderson"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "karen anderson",
-    "rating": 0,
+    "name": {
+      "first": "karen",
+      "last": "anderson"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "jason andors",
-    "rating": 0,
+    "name": {
+      "first": "jason",
+      "last": "andors"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "eric andre",
-    "rating": 0,
+    "name": {
+      "first": "eric",
+      "last": "andre"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "aziz ansari",
-    "rating": 0,
+    "name": {
+      "first": "aziz",
+      "last": "ansari"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ant",
-    "rating": 0,
+    "name": {
+      "alias": "ant"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "craig anton",
-    "rating": 0,
+    "name": {
+      "first": "craig",
+      "last": "anton"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "fahim anwar",
-    "rating": 0,
+    "name": {
+      "first": "fahim",
+      "last": "anwar"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "fred armisen",
-    "rating": 0,
+    "name": {
+      "first": "fred",
+      "last": "armisen"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "david arnold",
-    "rating": 0,
+    "name": {
+      "first": "david",
+      "last": "arnold"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "dave attell",
-    "rating": 0,
+    "name": {
+      "first": "dave",
+      "last": "attell"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "len austrevich",
-    "rating": 0,
+    "name": {
+      "first": "len",
+      "last": "austrevich"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "vince averill",
-    "rating": 0,
+    "name": {
+      "first": "vince",
+      "last": "averill"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ian bagg",
-    "rating": 0,
+    "name": {
+      "first": "ian",
+      "last": "bagg"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ben bailey",
-    "rating": 0,
+    "name": {
+      "first": "ben",
+      "last": "bailey"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "tony baker",
-    "rating": 0,
+    "name": {
+      "first": "tony",
+      "last": "baker"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "craig baldo",
-    "rating": 0,
+    "name": {
+      "first": "craig",
+      "last": "baldo"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "maria bamford",
-    "rating": 0,
+    "name": {
+      "first": "maria",
+      "last": "bamford"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "willie barcena",
-    "rating": 0,
+    "name": {
+      "first": "willie",
+      "last": "barcena"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "nate bargatze",
-    "rating": 0,
+    "name": {
+      "first": "nate",
+      "last": "bargatze"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "doc barham",
-    "rating": 0,
+    "name": {
+      "first": "doc",
+      "last": "barham"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "arj barker",
-    "rating": 0,
+    "name": {
+      "first": "arj",
+      "last": "barker"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "amy barnes",
-    "rating": 0,
+    "name": {
+      "first": "amy",
+      "last": "barnes"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "greer barnes",
-    "rating": 0,
+    "name": {
+      "first": "greer",
+      "last": "barnes"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "kevin barnett",
-    "rating": 0,
+    "name": {
+      "first": "kevin",
+      "last": "barnett"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ty barnett",
-    "rating": 0,
+    "name": {
+      "first": "ty",
+      "last": "barnett"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "todd barry",
-    "rating": 0,
+    "name": {
+      "first": "todd",
+      "last": "barry"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "rell battle",
-    "rating": 0,
+    "name": {
+      "first": "rell",
+      "last": "battle"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "bruce baum",
-    "rating": 0,
+    "name": {
+      "first": "bruce",
+      "last": "baum"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MATT BEARDEN",
-    "rating": 0,
+    "name": {
+      "first": "matt",
+      "last": "bearden"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ELIZABETH BECKWITH",
-    "rating": 0,
+    "name": {
+      "first": "elizabeth",
+      "last": "beckwith"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "TIM BEDORE",
-    "rating": 0,
+    "name": {
+      "first": "tim",
+      "last": "bedore"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "GREG BEHRENDT",
-    "rating": 0,
+    "name": {
+      "first": "greg",
+      "last": "behrendt"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "TONE BELL",
-    "rating": 0,
+    "name": {
+      "first": "tone",
+      "last": "bell"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "W. KAMAU BELL",
-    "rating": 0,
+    "name": {
+      "first": "w. kamau",
+      "last": "bell"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "RYAN BELLEVILLE",
-    "rating": 0,
+    "name": {
+      "first": "ryan",
+      "last": "belleville"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "RICHARD BELZER",
-    "rating": 0,
+    "name": {
+      "first": "richard",
+      "last": "belzer"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "OWEN BENJAMIN",
-    "rating": 0,
+    "name": {
+      "first": "owen",
+      "last": "benjamin"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "D.C. BENNY",
-    "rating": 0,
+    "name": {
+      "first": "d.c.",
+      "last": "benny"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DOUG BENSON",
-    "rating": 0,
+    "name": {
+      "first": "doug",
+      "last": "benson"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "KAREN BERGREEN",
-    "rating": 0,
+    "name": {
+      "first": "karen",
+      "last": "bergreen"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "KATE BERLANT",
-    "rating": 0,
+    "name": {
+      "first": "kate",
+      "last": "berlant"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "PETER BERMAN",
-    "rating": 0,
+    "name": {
+      "first": "peter",
+      "last": "berman"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JESSICA BERN",
-    "rating": 0,
+    "name": {
+      "first": "jessica",
+      "last": "bern"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "SANDRA BERNHARD",
-    "rating": 0,
+    "name": {
+      "first": "sandra",
+      "last": "bernhard"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MICK BETANCOURT",
-    "rating": 0,
+    "name": {
+      "first": "mick",
+      "last": "betancourt"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DANNY BEVINS",
-    "rating": 0,
+    "name": {
+      "first": "danny",
+      "last": "bevins"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "AHMED BHAROOCHA",
-    "rating": 0,
+    "name": {
+      "first": "ahmed",
+      "last": "bharoocha"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DANNY BHOY",
-    "rating": 0,
+    "name": {
+      "first": "danny",
+      "last": "bhoy"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "BOB BIGGERSTAFF",
-    "rating": 0,
+    "name": {
+      "first": "bob",
+      "last": "biggerstaff"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MICHELLE BILOON",
-    "rating": 0,
+    "name": {
+      "first": "michelle",
+      "last": "biloon"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MIKE BIRBIGLIA",
-    "rating": 0,
+    "name": {
+      "first": "mike",
+      "last": "birbiglia"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "KJELL BJORGEN",
-    "rating": 0,
+    "name": {
+      "first": "kjell",
+      "last": "bjorgen"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "LEWIS BLACK",
-    "rating": 0,
+    "name": {
+      "first": "lewis",
+      "last": "black"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MIKE BLACK",
-    "rating": 0,
+    "name": {
+      "first": "mike",
+      "last": "black"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ERIC BLAKE",
-    "rating": 0,
+    "name": {
+      "first": "eric",
+      "last": "blake"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ZHIVAGO BLEA",
-    "rating": 0,
+    "name": {
+      "first": "zhivago",
+      "last": "blea"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ANDY BLITZ",
-    "rating": 0,
+    "name": {
+      "first": "andy",
+      "last": "blitz"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "SCOTT BLOOM",
-    "rating": 0,
+    "name": {
+      "first": "scott",
+      "last": "bloom"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "TED BLUMBERG",
-    "rating": 0,
+    "name": {
+      "first": "ted",
+      "last": "blumberg"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ALONZO BODDEN",
-    "rating": 0,
+    "name": {
+      "first": "alonzo",
+      "last": "bodden"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JOE BOLSTER",
-    "rating": 0,
+    "name": {
+      "first": "joe",
+      "last": "bolster"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "GEOFF BOLT",
-    "rating": 0,
+    "name": {
+      "first": "geoff",
+      "last": "bolt"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "BILLY BONNELL",
-    "rating": 0,
+    "name": {
+      "first": "billy",
+      "last": "bonnell"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "CHUCK BOOMS",
-    "rating": 0,
+    "name": {
+      "first": "chuck",
+      "last": "booms"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "PATRICK BORELLI",
-    "rating": 0,
+    "name": {
+      "first": "patrick",
+      "last": "borelli"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ANDY BOROWITZ",
-    "rating": 0,
+    "name": {
+      "first": "andy",
+      "last": "borowitz"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DAN BOULGER",
-    "rating": 0,
+    "name": {
+      "first": "dan",
+      "last": "boulger"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "BYRON BOWERS",
-    "rating": 0,
+    "name": {
+      "first": "byron",
+      "last": "bowers"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JOHN BOWMAN",
-    "rating": 0,
+    "name": {
+      "first": "john",
+      "last": "bowman"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "KEVIN BOZEMAN",
-    "rating": 0,
+    "name": {
+      "first": "kevin",
+      "last": "bozeman"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "BUTCH BRADLEY",
-    "rating": 0,
+    "name": {
+      "first": "butch",
+      "last": "bradley"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JORDAN BRADY",
-    "rating": 0,
+    "name": {
+      "first": "jordan",
+      "last": "brady"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "RUSSELL BRAND",
-    "rating": 0,
+    "name": {
+      "first": "russell",
+      "last": "brand"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MATT BRAUNGER",
-    "rating": 0,
+    "name": {
+      "first": "matt",
+      "last": "braunger"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "KURT BRAUNOHLER",
-    "rating": 0,
+    "name": {
+      "first": "kurt",
+      "last": "braunohler"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MARK BRAZILL",
-    "rating": 0,
+    "name": {
+      "first": "mark",
+      "last": "brazill"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "KEVIN BRENNAN",
-    "rating": 0,
+    "name": {
+      "first": "kevin",
+      "last": "brennan"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "NEAL BRENNAN",
-    "rating": 0,
+    "name": {
+      "first": "neal",
+      "last": "brennan"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JIM BREUER",
-    "rating": 0,
+    "name": {
+      "first": "jim",
+      "last": "breuer"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "BARRY BREWER",
-    "rating": 0,
+    "name": {
+      "first": "barry",
+      "last": "brewer"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MIKE BRIDENSTINE",
-    "rating": 0,
+    "name": {
+      "first": "mike",
+      "last": "bridenstine"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "EDDIE BRILL",
-    "rating": 0,
+    "name": {
+      "first": "eddie",
+      "last": "brill"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "GINA BRILLON",
-    "rating": 0,
+    "name": {
+      "first": "gina",
+      "last": "brillon"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MIKE BRITT",
-    "rating": 0,
+    "name": {
+      "first": "mike",
+      "last": "britt"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "LOIS BROMFIELD",
-    "rating": 0,
+    "name": {
+      "first": "lois",
+      "last": "bromfield"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MATTHEW BROUSSARD",
-    "rating": 0,
+    "name": {
+      "first": "matthew",
+      "last": "broussard"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JR BROW",
-    "rating": 0,
+    "name": {
+      "first": "jr",
+      "last": "brow"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "COCOA BROWN",
-    "rating": 0,
+    "name": {
+      "first": "cocoa",
+      "last": "brown"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "LARRY BROWN",
-    "rating": 0,
+    "name": {
+      "first": "larry",
+      "last": "brown"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "BRUCE BRUCE",
-    "rating": 0,
+    "name": {
+      "first": "bruce",
+      "last": "bruce"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JEFF BURGHART",
-    "rating": 0,
+    "name": {
+      "first": "jeff",
+      "last": "burghart"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "BO BURNHAM",
-    "rating": 0,
+    "name": {
+      "first": "bo",
+      "last": "burnham"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "BILL BURR",
-    "rating": 0,
+    "name": {
+      "first": "bill",
+      "last": "burr"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "HANNIBAL BURESS",
-    "rating": 0,
+    "name": {
+      "first": "hannibal",
+      "last": "buress"
+    },
+    "rating": null,
     "notes": "",
     "photo": "https://farm9.staticflickr.com/8012/7004765874_edc87b4623_o.jpg"
   },
   {
-    "name": "JOHN BUSH",
-    "rating": 0,
+    "name": {
+      "first": "john",
+      "last": "bush"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MICHELLE BUTEAU",
-    "rating": 0,
+    "name": {
+      "first": "michelle",
+      "last": "buteau"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "BLAIR BUTLER",
-    "rating": 0,
+    "name": {
+      "first": "blair",
+      "last": "butler"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "BRETT BUTLER",
-    "rating": 0,
+    "name": {
+      "first": "brett",
+      "last": "butler"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ED BYRNE",
-    "rating": 0,
+    "name": {
+      "first": "ed",
+      "last": "byrne"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "STEVE BYRNE",
-    "rating": 0,
+    "name": {
+      "first": "steve",
+      "last": "byrne"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MICHAEL IAN BLACK",
-    "rating": 0,
+    "name": {
+      "first": "michael ian",
+      "last": "black"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JEFF CALDWELL",
-    "rating": 0,
+    "name": {
+      "first": "jeff",
+      "last": "caldwell"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "FRANK CALIENDO",
-    "rating": 0,
+    "name": {
+      "first": "frank",
+      "last": "caliendo"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "BRYAN CALLEN",
-    "rating": 0,
+    "name": {
+      "first": "bryan",
+      "last": "callen"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DERRICK CAMERON",
-    "rating": 0,
+    "name": {
+      "first": "derrick",
+      "last": "cameron"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "KEVIN CAMIA",
-    "rating": 0,
+    "name": {
+      "first": "kevin",
+      "last": "camia"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "TONY CAMIN",
-    "rating": 0,
+    "name": {
+      "first": "tony",
+      "last": "camin"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "NICK CANNON",
-    "rating": 0,
+    "name": {
+      "first": "nick",
+      "last": "cannon"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MARIO CANTONE",
-    "rating": 0,
+    "name": {
+      "first": "mario",
+      "last": "cantone"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JOHN CAPARULO",
-    "rating": 0,
+    "name": {
+      "first": "john",
+      "last": "caparulo"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "BLAINE CAPATCH",
-    "rating": 0,
+    "name": {
+      "first": "blaine",
+      "last": "capatch"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "CAPONE",
-    "rating": 0,
+    "name": {
+      "alias": "capone"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JOHN CAPONERA",
-    "rating": 0,
+    "name": {
+      "first": "john",
+      "last": "caponera"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JORDAN CARLOS",
-    "rating": 0,
+    "name": {
+      "first": "jordan",
+      "last": "carlos"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JIMMY CARR",
-    "rating": 0,
+    "name": {
+      "first": "jimmy",
+      "last": "carr"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DARREN CARTER",
-    "rating": 0,
+    "name": {
+      "first": "darren",
+      "last": "carter"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "RICHARD CARTER",
-    "rating": 0,
+    "name": {
+      "first": "richard",
+      "last": "carter"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DANA CARVEY",
-    "rating": 0,
+    "name": {
+      "first": "dana",
+      "last": "carvey"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "CHRIS CASE",
-    "rating": 0,
+    "name": {
+      "first": "chris",
+      "last": "case"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ALLISON CASTILLO",
-    "rating": 0,
+    "name": {
+      "first": "allison",
+      "last": "castillo"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "KYLE CEASE",
-    "rating": 0,
+    "name": {
+      "first": "kyle",
+      "last": "cease"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "TOMMY CHUNN",
-    "rating": 0,
+    "name": {
+      "first": "tommy",
+      "last": "chunn"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ANTHONY CLARK",
-    "rating": 0,
+    "name": {
+      "first": "anthony",
+      "last": "clark"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "BLAKE CLARK",
-    "rating": 0,
+    "name": {
+      "first": "blake",
+      "last": "clark"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "TOM CLARK",
-    "rating": 0,
+    "name": {
+      "first": "tom",
+      "last": "clark"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "LENNY CLARKE",
-    "rating": 0,
+    "name": {
+      "first": "lenny",
+      "last": "clarke"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ANDREW DICE CLAY",
-    "rating": 0,
+    "name": {
+      "first": "andrew",
+      "last": "clay"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "AL CLETHEN JR.",
-    "rating": 0,
+    "name": "al clethen jr.",
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "RICK CLEVELAND",
-    "rating": 0,
+    "name": {
+      "first": "rick",
+      "last": "cleveland"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "NICK COBB",
-    "rating": 0,
+    "name": {
+      "first": "nick",
+      "last": "cobb"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JACK COEN",
-    "rating": 0,
+    "name": {
+      "first": "jack",
+      "last": "coen"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "CEDRIC THE ENTERTAINER",
-    "rating": 0,
+    "name": {
+      "alias": "cedric the entertainer"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "WYATT CENAC",
-    "rating": 0,
+    "name": {
+      "first": "wyatt",
+      "last": "cenac"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JEFF CESARIO",
-    "rating": 0,
+    "name": {
+      "first": "jeff",
+      "last": "cesario"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ELIOT CHANG",
-    "rating": 0,
+    "name": {
+      "first": "eliot",
+      "last": "chang"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DAVE CHAPPELLE",
-    "rating": 0,
+    "name": {
+      "first": "dave",
+      "last": "chappelle"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "VERNON CHATMAN",
-    "rating": 0,
+    "name": {
+      "first": "vernon",
+      "last": "chatman"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MICHAEL CHE",
-    "rating": 0,
+    "name": {
+      "first": "michael",
+      "last": "che"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MARGARET CHO",
-    "rating": 0,
+    "name": {
+      "first": "margaret",
+      "last": "cho"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ROB CHRISTENSEN",
-    "rating": 0,
+    "name": {
+      "first": "rob",
+      "last": "christensen"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "KEVIN CHRISTY",
-    "rating": 0,
+    "name": {
+      "first": "kevin",
+      "last": "christy"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DANNY COHEN",
-    "rating": 0,
+    "name": {
+      "first": "danny",
+      "last": "cohen"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MARK COHEN",
-    "rating": 0,
+    "name": {
+      "first": "mark",
+      "last": "cohen"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DEON COLE",
-    "rating": 0,
+    "name": {
+      "first": "deon",
+      "last": "cole"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "HAPPY COLE",
-    "rating": 0,
+    "name": {
+      "first": "happy",
+      "last": "cole"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "RENO COLLIER",
-    "rating": 0,
+    "name": {
+      "first": "reno",
+      "last": "collier"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "BOBBY COLLINS",
-    "rating": 0,
+    "name": {
+      "first": "bobby",
+      "last": "collins"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "WALI COLLINS",
-    "rating": 0,
+    "name": {
+      "first": "wali",
+      "last": "collins"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "SARAH COLONNA",
-    "rating": 0,
+    "name": {
+      "first": "sarah",
+      "last": "colonna"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "SEAN CONROY",
-    "rating": 0,
+    "name": {
+      "first": "sean",
+      "last": "conroy"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DANE COOK",
-    "rating": 0,
+    "name": {
+      "first": "dane",
+      "last": "cook"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JONATHAN CORBETT",
-    "rating": 0,
+    "name": {
+      "first": "jonathan",
+      "last": "corbett"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "BILLIAM CORONEL",
-    "rating": 0,
+    "name": {
+      "first": "billiam",
+      "last": "coronel"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "PETE CORREALE",
-    "rating": 0,
+    "name": {
+      "first": "pete",
+      "last": "correale"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "RICK CORSO",
-    "rating": 0,
+    "name": {
+      "first": "rick",
+      "last": "corso"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "SEAN CORVELLE",
-    "rating": 0,
+    "name": {
+      "first": "sean",
+      "last": "corvelle"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "BILL COSBY",
-    "rating": 0,
+    "name": {
+      "first": "bill",
+      "last": "cosby"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "SUE COSTELLO",
-    "rating": 0,
+    "name": {
+      "first": "sue",
+      "last": "costello"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "TOM COTTER",
-    "rating": 0,
+    "name": {
+      "first": "tom",
+      "last": "cotter"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ED CRASNICK",
-    "rating": 0,
+    "name": {
+      "first": "ed",
+      "last": "crasnick"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "LAVELL CRAWFORD",
-    "rating": 0,
+    "name": {
+      "first": "lavell",
+      "last": "crawford"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "RANDY CREDICO",
-    "rating": 0,
+    "name": {
+      "first": "randy",
+      "last": "credico"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "OTIS LEE CRENSHAW",
-    "rating": 0,
+    "name": {
+      "first": "otis",
+      "middle": "lee",
+      "last": "crenshaw"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DAN CRONIN",
-    "rating": 0,
+    "name": {
+      "first": "dan",
+      "last": "cronin"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "SUNDA CROONQUIST",
-    "rating": 0,
+    "name": {
+      "first": "sunda",
+      "last": "croonquist"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DAVID CROSS",
-    "rating": 0,
+    "name": {
+      "first": "david",
+      "last": "cross"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DAVID CROWE",
-    "rating": 0,
+    "name": {
+      "first": "david",
+      "last": "crowe"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "CHRIS CUBAS",
-    "rating": 0,
+    "name": {
+      "first": "chris",
+      "last": "cubas"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "SEAN CULLEN",
-    "rating": 0,
+    "name": {
+      "first": "sean",
+      "last": "cullen"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "WHITNEY CUMMINGS",
-    "rating": 0,
+    "name": {
+      "first": "whitney",
+      "last": "cummings"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DAN CUMMINS",
-    "rating": 0,
+    "name": {
+      "first": "dan",
+      "last": "cummins"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DC CURRY",
-    "rating": 0,
+    "name": {
+      "first": "dc",
+      "last": "curry"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MARK CURRY",
-    "rating": 0,
+    "name": {
+      "first": "mark",
+      "last": "curry"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "REBECCA CORRY",
-    "rating": 0,
+    "name": {
+      "first": "rebecca",
+      "last": "corry"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MATT D",
-    "rating": 0,
+    "name": {
+      "first": "matt",
+      "last": "d"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "QUINN DAHLE",
-    "rating": 0,
+    "name": {
+      "first": "quinn",
+      "last": "dahle"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "THOMAS DALE",
-    "rating": 0,
+    "name": {
+      "first": "thomas",
+      "last": "dale"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "RYAN DALTON",
-    "rating": 0,
+    "name": {
+      "first": "ryan",
+      "last": "dalton"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ANDY DALY",
-    "rating": 0,
+    "name": {
+      "first": "andy",
+      "last": "daly"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "CHAD DANIELS",
-    "rating": 0,
+    "name": {
+      "first": "chad",
+      "last": "daniels"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "RHYS DARBY",
-    "rating": 0,
+    "name": {
+      "first": "rhys",
+      "last": "darby"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JOHNNY DARK",
-    "rating": 0,
+    "name": {
+      "first": "johnny",
+      "last": "dark"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "TONY DARO",
-    "rating": 0,
+    "name": {
+      "first": "tony",
+      "last": "daro"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "SHERRY DAVEY",
-    "rating": 0,
+    "name": {
+      "first": "sherry",
+      "last": "davey"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JIM DAVID",
-    "rating": 0,
+    "name": {
+      "first": "jim",
+      "last": "david"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DOV DAVIDOFF",
-    "rating": 0,
+    "name": {
+      "first": "dov",
+      "last": "davidoff"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "PETE DAVIDSON",
-    "rating": 0,
+    "name": {
+      "first": "pete",
+      "last": "davidson"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "TOMMY DAVIDSON",
-    "rating": 0,
+    "name": {
+      "first": "tommy",
+      "last": "davidson"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DERAY DAVIS",
-    "rating": 0,
+    "name": {
+      "first": "deray",
+      "last": "davis"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DRENNON DAVIS",
-    "rating": 0,
+    "name": {
+      "first": "drennon",
+      "last": "davis"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "EVAN DAVIS",
-    "rating": 0,
+    "name": {
+      "first": "evan",
+      "last": "davis"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JAMES DAVIS",
-    "rating": 0,
+    "name": {
+      "first": "james",
+      "last": "davis"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "NORE DAVIS",
-    "rating": 0,
+    "name": {
+      "first": "nore",
+      "last": "davis"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ELLEN DEGENERES",
-    "rating": 0,
+    "name": {
+      "first": "ellen",
+      "last": "degeneres"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MIKE DENICOLA",
-    "rating": 0,
+    "name": {
+      "first": "mike",
+      "last": "denicola"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JOE DEROSA",
-    "rating": 0,
+    "name": {
+      "first": "joe",
+      "last": "derosa"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JOE DEVITO",
-    "rating": 0,
+    "name": {
+      "first": "joe",
+      "last": "devito"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "GERRY DEE",
-    "rating": 0,
+    "name": {
+      "first": "gerry",
+      "last": "dee"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "LISA DELARIOS",
-    "rating": 0,
+    "name": {
+      "first": "lisa",
+      "last": "delarios"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "RAJ DESAI",
-    "rating": 0,
+    "name": {
+      "first": "raj",
+      "last": "desai"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DAN DEVIDO",
-    "rating": 0,
+    "name": {
+      "first": "dan",
+      "last": "devido"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ADAM DEVINE",
-    "rating": 0,
+    "name": {
+      "first": "adam",
+      "last": "devine"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DEBRA DIGIOVANNI",
-    "rating": 0,
+    "name": {
+      "first": "debra",
+      "last": "digiovanni"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "LOU DIMAGGIO",
-    "rating": 0,
+    "name": {
+      "first": "lou",
+      "last": "dimaggio"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "NICK DIPAOLO",
-    "rating": 0,
+    "name": {
+      "first": "nick",
+      "last": "dipaolo"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JOHN DIRESTA",
-    "rating": 0,
+    "name": {
+      "first": "john",
+      "last": "diresta"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JANINE DITULLIO",
-    "rating": 0,
+    "name": {
+      "first": "janine",
+      "last": "ditullio"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "BARRY DIAMOND",
-    "rating": 0,
+    "name": {
+      "first": "barry",
+      "last": "diamond"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JOEY \"COCO\" DIAZ",
-    "rating": 0,
+    "name": {
+      "first": "joey",
+      "middle": "coco",
+      "last": "diaz"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "PAUL DILLERY",
-    "rating": 0,
+    "name": {
+      "first": "paul",
+      "last": "dillery"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "CHRIS DISTEFANO",
-    "rating": 0,
+    "name": {
+      "first": "chris",
+      "last": "distefano"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "LEWIS DIX",
-    "rating": 0,
+    "name": {
+      "first": "lewis",
+      "last": "dix"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "PAT DIXON",
-    "rating": 0,
+    "name": {
+      "first": "pat",
+      "last": "dixon"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "LAUREN DOMBROWSKI",
-    "rating": 0,
+    "name": {
+      "first": "lauren",
+      "last": "dombrowski"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "PETE DOMINICK",
-    "rating": 0,
+    "name": {
+      "first": "pete",
+      "last": "dominick"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ANDREW DONNELLY",
-    "rating": 0,
+    "name": {
+      "first": "andrew",
+      "last": "donnelly"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "SEAN DONNELLY",
-    "rating": 0,
+    "name": {
+      "first": "sean",
+      "last": "donnelly"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "BECKY DONOHUE",
-    "rating": 0,
+    "name": {
+      "first": "becky",
+      "last": "donohue"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JIMMY DORE",
-    "rating": 0,
+    "name": {
+      "first": "jimmy",
+      "last": "dore"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JON DORE",
-    "rating": 0,
+    "name": {
+      "first": "jon",
+      "last": "dore"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ERIC DRYSDALE",
-    "rating": 0,
+    "name": {
+      "first": "eric",
+      "last": "drysdale"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MIKE DUGAN",
-    "rating": 0,
+    "name": {
+      "first": "mike",
+      "last": "dugan"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MERRIN DUNGEY",
-    "rating": 0,
+    "name": {
+      "first": "merrin",
+      "last": "dungey"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JEFF DUNHAM",
-    "rating": 0,
+    "name": {
+      "first": "jeff",
+      "last": "dunham"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "KYLE DUNNIGAN",
-    "rating": 0,
+    "name": {
+      "first": "kyle",
+      "last": "dunnigan"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "WILL DURST",
-    "rating": 0,
+    "name": {
+      "first": "will",
+      "last": "durst"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "BIL DWYER",
-    "rating": 0,
+    "name": {
+      "first": "bil",
+      "last": "dwyer"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JEFF DYE",
-    "rating": 0,
+    "name": {
+      "first": "jeff",
+      "last": "dye"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MIKE DESTEFANO",
-    "rating": 0,
+    "name": {
+      "first": "mike",
+      "last": "destefano"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MARIO DIGIORGIO",
-    "rating": 0,
+    "name": {
+      "first": "mario",
+      "last": "digiorgio"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "EARTHQUAKE",
-    "rating": 0,
+    "name": {
+      "group": "earthquake"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "CINDY EATON",
-    "rating": 0,
+    "name": {
+      "first": "cindy",
+      "last": "eaton"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DEAN EDWARDS",
-    "rating": 0,
+    "name": {
+      "first": "dean",
+      "last": "edwards"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "IAN EDWARDS",
-    "rating": 0,
+    "name": {
+      "first": "ian",
+      "last": "edwards"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "OPHIRA EISENBERG",
-    "rating": 0,
+    "name": {
+      "first": "ophira",
+      "last": "eisenberg"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "GRAHAM ELWOOD",
-    "rating": 0,
+    "name": {
+      "first": "graham",
+      "last": "elwood"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "BILL ENGVALL",
-    "rating": 0,
+    "name": {
+      "first": "bill",
+      "last": "engvall"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MIKE EPPS",
-    "rating": 0,
+    "name": {
+      "first": "mike",
+      "last": "epps"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "BRET ERNST",
-    "rating": 0,
+    "name": {
+      "first": "bret",
+      "last": "ernst"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "TRACY ESPOSITO",
-    "rating": 0,
+    "name": {
+      "first": "tracy",
+      "last": "esposito"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "SUSIE ESSMAN",
-    "rating": 0,
+    "name": {
+      "first": "susie",
+      "last": "essman"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MICHAEL ESTIME",
-    "rating": 0,
+    "name": {
+      "first": "michael",
+      "last": "estime"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "BRIAN KEITH ETHERIDGE",
-    "rating": 0,
+    "name": {
+      "first": "brian",
+      "middle": "keith",
+      "last": "etheridge"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JOHN EVANS",
-    "rating": 0,
+    "name": {
+      "first": "john",
+      "last": "evans"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "GARY EWING",
-    "rating": 0,
+    "name": {
+      "first": "gary",
+      "last": "ewing"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "FELIPE ESPARZA",
-    "rating": 0,
+    "name": {
+      "first": "felipe",
+      "last": "esparza"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MITCH FATEL",
-    "rating": 0,
+    "name": {
+      "first": "mitch",
+      "last": "fatel"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "WAYNE FEDERMAN",
-    "rating": 0,
+    "name": {
+      "first": "wayne",
+      "last": "federman"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "FORTUNE FEIMSTER",
-    "rating": 0,
+    "name": {
+      "first": "fortune",
+      "last": "feimster"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "RACHEL FEINSTEIN",
-    "rating": 0,
+    "name": {
+      "first": "rachel",
+      "last": "feinstein"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DAVID FELDMAN",
-    "rating": 0,
+    "name": {
+      "first": "david",
+      "last": "feldman"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "CRAIG FERGUSON",
-    "rating": 0,
+    "name": {
+      "first": "craig",
+      "last": "ferguson"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "CORY FERNANDEZ",
-    "rating": 0,
+    "name": {
+      "first": "cory",
+      "last": "fernandez"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ADAM FERRARA",
-    "rating": 0,
+    "name": {
+      "first": "adam",
+      "last": "ferrara"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JOHN FERRENTINO",
-    "rating": 0,
+    "name": {
+      "first": "john",
+      "last": "ferrentino"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "HUGH FINK",
-    "rating": 0,
+    "name": {
+      "first": "hugh",
+      "last": "fink"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "CHRISTIAN FINNEGAN",
-    "rating": 0,
+    "name": {
+      "first": "christian",
+      "last": "finnegan"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JON FISCH",
-    "rating": 0,
+    "name": {
+      "first": "jon",
+      "last": "fisch"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "GREG FITZSIMMONS",
-    "rating": 0,
+    "name": {
+      "first": "greg",
+      "last": "fitzsimmons"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "SEAN FLANNERY",
-    "rating": 0,
+    "name": {
+      "first": "sean",
+      "last": "flannery"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "CHARLES FLEISCHER",
-    "rating": 0,
+    "name": {
+      "first": "charles",
+      "last": "fleischer"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "HOPE FLOOD",
-    "rating": 0,
+    "name": {
+      "first": "hope",
+      "last": "flood"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JACKIE FLYNN",
-    "rating": 0,
+    "name": {
+      "first": "jackie",
+      "last": "flynn"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "KEVIN FLYNN",
-    "rating": 0,
+    "name": {
+      "first": "kevin",
+      "last": "flynn"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ERIN FOLEY",
-    "rating": 0,
+    "name": {
+      "first": "erin",
+      "last": "foley"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "SHANG FORBES",
-    "rating": 0,
+    "name": {
+      "first": "shang",
+      "last": "forbes"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "CANDY FORD",
-    "rating": 0,
+    "name": {
+      "first": "candy",
+      "last": "ford"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "LEEANNE FORD",
-    "rating": 0,
+    "name": {
+      "first": "leeanne",
+      "last": "ford"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MARK FORWARD",
-    "rating": 0,
+    "name": {
+      "first": "mark",
+      "last": "forward"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "KARITH FOSTER",
-    "rating": 0,
+    "name": {
+      "first": "karith",
+      "last": "foster"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DENNIS FOWLER",
-    "rating": 0,
+    "name": {
+      "first": "dennis",
+      "last": "fowler"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JERMAINE FOWLER",
-    "rating": 0,
+    "name": {
+      "first": "jermaine",
+      "last": "fowler"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JOHN FOX",
-    "rating": 0,
+    "name": {
+      "first": "john",
+      "last": "fox"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "KIRK FOX",
-    "rating": 0,
+    "name": {
+      "first": "kirk",
+      "last": "fox"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JEFF FOXWORTHY",
-    "rating": 0,
+    "name": {
+      "first": "jeff",
+      "last": "foxworthy"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "RICH FRANCESE",
-    "rating": 0,
+    "name": {
+      "first": "rich",
+      "last": "francese"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "PABLO FRANCISCO",
-    "rating": 0,
+    "name": {
+      "first": "pablo",
+      "last": "francisco"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MARINA FRANKLIN",
-    "rating": 0,
+    "name": {
+      "first": "marina",
+      "last": "franklin"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DREW FRASER",
-    "rating": 0,
+    "name": {
+      "first": "drew",
+      "last": "fraser"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "BRIAN FRAZER",
-    "rating": 0,
+    "name": {
+      "first": "brian",
+      "last": "frazer"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "TRAVON FREE",
-    "rating": 0,
+    "name": {
+      "first": "travon",
+      "last": "free"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JUDAH FRIEDLANDER",
-    "rating": 0,
+    "name": {
+      "first": "judah",
+      "last": "friedlander"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DON FRIESEN",
-    "rating": 0,
+    "name": {
+      "first": "don",
+      "last": "friesen"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MATT FULCHIRON",
-    "rating": 0,
+    "name": {
+      "first": "matt",
+      "last": "fulchiron"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "RON FUNCHES",
-    "rating": 0,
+    "name": {
+      "first": "ron",
+      "last": "funches"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ROZ G",
-    "rating": 0,
+    "name": {
+      "first": "roz",
+      "last": "g"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DAN GABRIEL",
-    "rating": 0,
+    "name": {
+      "first": "dan",
+      "last": "gabriel"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JIM GAFFIGAN",
-    "rating": 0,
+    "name": {
+      "first": "jim",
+      "last": "gaffigan"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ZACH GALIFIANAKIS",
-    "rating": 0,
+    "name": {
+      "first": "zach",
+      "last": "galifianakis"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JACK GALLAGHER",
-    "rating": 0,
+    "name": {
+      "first": "jack",
+      "last": "gallagher"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DILLON GARCIA",
-    "rating": 0,
+    "name": {
+      "first": "dillon",
+      "last": "garcia"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JEFF GARCIA",
-    "rating": 0,
+    "name": {
+      "first": "jeff",
+      "last": "garcia"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "BILLY GARDELL",
-    "rating": 0,
+    "name": {
+      "first": "billy",
+      "last": "gardell"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "GARFUNKEL AND OATES",
-    "rating": 0,
+    "name": {
+      "group": "garfunkel and oates"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JEFF GARLIN",
-    "rating": 0,
+    "name": {
+      "first": "jeff",
+      "last": "garlin"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JANEANE GAROFALO",
-    "rating": 0,
+    "name": {
+      "first": "janeane",
+      "last": "garofalo"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DENNIS GAXIOLA",
-    "rating": 0,
+    "name": {
+      "first": "dennis",
+      "last": "gaxiola"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JOEY GAY",
-    "rating": 0,
+    "name": {
+      "first": "joey",
+      "last": "gay"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "RICKY GERVAIS",
-    "rating": 0,
+    "name": {
+      "first": "ricky",
+      "last": "gervais"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "CHRIS GETHARD",
-    "rating": 0,
+    "name": {
+      "first": "chris",
+      "last": "gethard"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "PAUL GILMARTIN",
-    "rating": 0,
+    "name": {
+      "first": "paul",
+      "last": "gilmartin"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "GREG GIRALDO",
-    "rating": 0,
+    "name": {
+      "first": "greg",
+      "last": "giraldo"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ADELE GIVENS",
-    "rating": 0,
+    "name": {
+      "first": "adele",
+      "last": "givens"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "NIKKI GLASER",
-    "rating": 0,
+    "name": {
+      "first": "nikki",
+      "last": "glaser"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "TODD GLASS",
-    "rating": 0,
+    "name": {
+      "first": "todd",
+      "last": "glass"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "RICK GLASSMAN",
-    "rating": 0,
+    "name": {
+      "first": "rick",
+      "last": "glassman"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ILANA GLAZER",
-    "rating": 0,
+    "name": {
+      "first": "ilana",
+      "last": "glazer"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "BRANDON 'HOT SAUCE' GLOVER",
-    "rating": 0,
+    "name": {
+      "first": "brandon",
+      "alias": "'hot sauce'",
+      "last": "glover"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DONALD GLOVER",
-    "rating": 0,
+    "name": {
+      "first": "donald",
+      "last": "glover"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "GODFREY",
-    "rating": 0,
+    "name": {
+      "alias": "godfrey"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ELON GOLD",
-    "rating": 0,
+    "name": {
+      "first": "elon",
+      "last": "gold"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JUDY GOLD",
-    "rating": 0,
+    "name": {
+      "first": "judy",
+      "last": "gold"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MATT GOLDICH",
-    "rating": 0,
+    "name": {
+      "first": "matt",
+      "last": "goldich"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JULIE GOLDMAN",
-    "rating": 0,
+    "name": {
+      "first": "julie",
+      "last": "goldman"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "BOBCAT GOLDTHWAIT",
-    "rating": 0,
+    "name": {
+      "first": "bobcat",
+      "last": "goldthwait"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "NOE GONZALEZ",
-    "rating": 0,
+    "name": {
+      "first": "noe",
+      "last": "gonzalez"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "LISA GOPMAN",
-    "rating": 0,
+    "name": {
+      "first": "lisa",
+      "last": "gopman"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "EDDIE GOSSLING",
-    "rating": 0,
+    "name": {
+      "first": "eddie",
+      "last": "gossling"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "GILBERT GOTTFRIED",
-    "rating": 0,
+    "name": {
+      "first": "gilbert",
+      "last": "gottfried"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DANA GOULD",
-    "rating": 0,
+    "name": {
+      "first": "dana",
+      "last": "gould"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "VANESSA GRADDICK",
-    "rating": 0,
+    "name": {
+      "first": "vanessa",
+      "last": "graddick"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MATT GRAHAM",
-    "rating": 0,
+    "name": {
+      "first": "matt",
+      "last": "graham"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "CHARLIE GRANDY",
-    "rating": 0,
+    "name": {
+      "first": "charlie",
+      "last": "grandy"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "KAREEM GREEN",
-    "rating": 0,
+    "name": {
+      "first": "kareem",
+      "last": "green"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "PAUL GREENBERG",
-    "rating": 0,
+    "name": {
+      "first": "paul",
+      "last": "greenberg"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DAVID ALAN GRIER",
-    "rating": 0,
+    "name": {
+      "first": "david",
+      "middle": "alan",
+      "last": "grier"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "EDDIE GRIFFIN",
-    "rating": 0,
+    "name": {
+      "first": "eddie",
+      "last": "griffin"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ERIK GRIFFIN",
-    "rating": 0,
+    "name": {
+      "first": "erik",
+      "last": "griffin"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "KATHY GRIFFIN",
-    "rating": 0,
+    "name": {
+      "first": "kathy",
+      "last": "griffin"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "NICK GRIFFIN",
-    "rating": 0,
+    "name": {
+      "first": "nick",
+      "last": "griffin"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ANTHONY GRIFFITH",
-    "rating": 0,
+    "name": {
+      "first": "anthony",
+      "last": "griffith"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "KYLE GROOMS",
-    "rating": 0,
+    "name": {
+      "first": "kyle",
+      "last": "grooms"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MARK GROSS",
-    "rating": 0,
+    "name": {
+      "first": "mark",
+      "last": "gross"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ADAM GROWE",
-    "rating": 0,
+    "name": {
+      "first": "adam",
+      "last": "growe"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JACKIE GUERRA",
-    "rating": 0,
+    "name": {
+      "first": "jackie",
+      "last": "guerra"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "NICK GUERRA",
-    "rating": 0,
+    "name": {
+      "first": "nick",
+      "last": "guerra"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "GERARD GUILLORY",
-    "rating": 0,
+    "name": {
+      "first": "gerard",
+      "last": "guillory"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "GARY GULMAN",
-    "rating": 0,
+    "name": {
+      "first": "gary",
+      "last": "gulman"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "RICK GUTIERREZ",
-    "rating": 0,
+    "name": {
+      "first": "rick",
+      "last": "gutierrez"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "BRYAN GUTMANN",
-    "rating": 0,
+    "name": {
+      "first": "bryan",
+      "last": "gutmann"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "GREG HAHN",
-    "rating": 0,
+    "name": {
+      "first": "greg",
+      "last": "hahn"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ROGER HAILES",
-    "rating": 0,
+    "name": {
+      "first": "roger",
+      "last": "hailes"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "KENT HAINES",
-    "rating": 0,
+    "name": {
+      "first": "kent",
+      "last": "haines"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "BRIAN HALEY",
-    "rating": 0,
+    "name": {
+      "first": "brian",
+      "last": "haley"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "BORIS HAMILTON",
-    "rating": 0,
+    "name": {
+      "first": "boris",
+      "last": "hamilton"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "RYAN HAMILTON",
-    "rating": 0,
+    "name": {
+      "first": "ryan",
+      "last": "hamilton"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DARRELL HAMMOND",
-    "rating": 0,
+    "name": {
+      "first": "darrell",
+      "last": "hammond"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "CHELSEA HANDLER",
-    "rating": 0,
+    "name": {
+      "first": "chelsea",
+      "last": "handler"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "PHIL HANLEY",
-    "rating": 0,
+    "name": {
+      "first": "phil",
+      "last": "hanley"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "CHRIS HARDWICK",
-    "rating": 0,
+    "name": {
+      "first": "chris",
+      "last": "hardwick"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "RALPH HARRIS",
-    "rating": 0,
+    "name": {
+      "first": "ralph",
+      "last": "harris"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "RICK HARRIS",
-    "rating": 0,
+    "name": {
+      "first": "rick",
+      "last": "harris"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "REID HARRISON",
-    "rating": 0,
+    "name": {
+      "first": "reid",
+      "last": "harrison"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "KEVIN HART",
-    "rating": 0,
+    "name": {
+      "first": "kevin",
+      "last": "hart"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DREW HASTINGS",
-    "rating": 0,
+    "name": {
+      "first": "drew",
+      "last": "hastings"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "J.R. HAVLAN",
-    "rating": 0,
+    "name": {
+      "first": "j.r.",
+      "last": "havlan"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "CALISE HAWKINS",
-    "rating": 0,
+    "name": {
+      "first": "calise",
+      "last": "hawkins"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ROBERT HAWKINS",
-    "rating": 0,
+    "name": {
+      "first": "robert",
+      "last": "hawkins"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ANDY HAYNES",
-    "rating": 0,
+    "name": {
+      "first": "andy",
+      "last": "haynes"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "PAT HAZELL",
-    "rating": 0,
+    "name": {
+      "first": "pat",
+      "last": "hazell"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MITCH HEDBERG",
-    "rating": 0,
+    "name": {
+      "first": "mitch",
+      "last": "hedberg"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JOHN HEFFRON",
-    "rating": 0,
+    "name": {
+      "first": "john",
+      "last": "heffron"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "EMILY HELLER",
-    "rating": 0,
+    "name": {
+      "first": "emily",
+      "last": "heller"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ED HELMS",
-    "rating": 0,
+    "name": {
+      "first": "ed",
+      "last": "helms"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "SHIRLEY HEMPHILL",
-    "rating": 0,
+    "name": {
+      "first": "shirley",
+      "last": "hemphill"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "VIC HENLEY",
-    "rating": 0,
+    "name": {
+      "first": "vic",
+      "last": "henley"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "SCOTT HENRY",
-    "rating": 0,
+    "name": {
+      "first": "scott",
+      "last": "henry"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JOHN HENSON",
-    "rating": 0,
+    "name": {
+      "first": "john",
+      "last": "henson"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JOHN HENTON",
-    "rating": 0,
+    "name": {
+      "first": "john",
+      "last": "henton"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "SETH HERZOG",
-    "rating": 0,
+    "name": {
+      "first": "seth",
+      "last": "herzog"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "BILL HICKS",
-    "rating": 0,
+    "name": {
+      "first": "bill",
+      "last": "hicks"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "RENE HICKS",
-    "rating": 0,
+    "name": {
+      "first": "rene",
+      "last": "hicks"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "LINDA HILL",
-    "rating": 0,
+    "name": {
+      "first": "linda",
+      "last": "hill"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "CHRIS HOBBS",
-    "rating": 0,
+    "name": {
+      "first": "chris",
+      "last": "hobbs"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "STEPHANIE HODGE",
-    "rating": 0,
+    "name": {
+      "first": "stephanie",
+      "last": "hodge"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "COREY HOLCOMB",
-    "rating": 0,
+    "name": {
+      "first": "corey",
+      "last": "holcomb"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "VANESSA HOLLINGSHEAD",
-    "rating": 0,
+    "name": {
+      "first": "vanessa",
+      "last": "hollingshead"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "PETE HOLMES",
-    "rating": 0,
+    "name": {
+      "first": "pete",
+      "last": "holmes"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "J. SCOTT HOMAN",
-    "rating": 0,
+    "name": {
+      "first": "j. scott",
+      "last": "homan"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JOSH HOMER",
-    "rating": 0,
+    "name": {
+      "first": "josh",
+      "last": "homer"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JOHN HOOGASIAN",
-    "rating": 0,
+    "name": {
+      "first": "john",
+      "last": "hoogasian"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MARYELLEN HOOPER",
-    "rating": 0,
+    "name": {
+      "first": "maryellen",
+      "last": "hooper"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JEREMY HOTZ",
-    "rating": 0,
+    "name": {
+      "first": "jeremy",
+      "last": "hotz"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "LAURA HOUSE",
-    "rating": 0,
+    "name": {
+      "first": "laura",
+      "last": "house"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "SHARON HOUSTON",
-    "rating": 0,
+    "name": {
+      "first": "sharon",
+      "last": "houston"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "KELLYE HOWARD",
-    "rating": 0,
+    "name": {
+      "first": "kellye",
+      "last": "howard"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "STEPHANIE HOWARD",
-    "rating": 0,
+    "name": {
+      "first": "stephanie",
+      "last": "howard"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JON HUCK",
-    "rating": 0,
+    "name": {
+      "first": "jon",
+      "last": "huck"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ROB HUEBEL",
-    "rating": 0,
+    "name": {
+      "first": "rob",
+      "last": "huebel"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DL HUGHLEY",
-    "rating": 0,
+    "name": {
+      "first": "dl",
+      "last": "hughley"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DAVID HUNTSBERGER",
-    "rating": 0,
+    "name": {
+      "first": "david",
+      "last": "huntsberger"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "WARREN HUTCHERSON",
-    "rating": 0,
+    "name": {
+      "first": "warren",
+      "last": "hutcherson"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JIM HAMILTON",
-    "rating": 0,
+    "name": {
+      "first": "jim",
+      "last": "hamilton"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "GABRIEL IGLESIAS",
-    "rating": 0,
+    "name": {
+      "first": "gabriel",
+      "last": "iglesias"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ERIC INGRAM",
-    "rating": 0,
+    "name": {
+      "first": "eric",
+      "last": "ingram"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DOM IRRERA",
-    "rating": 0,
+    "name": {
+      "first": "dom",
+      "last": "irrera"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MATT ISEMAN",
-    "rating": 0,
+    "name": {
+      "first": "matt",
+      "last": "iseman"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "AL JACKSON",
-    "rating": 0,
+    "name": {
+      "first": "al",
+      "last": "jackson"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ERIN JACKSON",
-    "rating": 0,
+    "name": {
+      "first": "erin",
+      "last": "jackson"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "VICTORIA JACKSON",
-    "rating": 0,
+    "name": {
+      "first": "victoria",
+      "last": "jackson"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "CLINTON JACKSON",
-    "rating": 0,
+    "name": {
+      "first": "clinton",
+      "last": "jackson"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ABBI JACOBSON",
-    "rating": 0,
+    "name": {
+      "first": "abbi",
+      "last": "jacobson"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "SABRINA JALEES",
-    "rating": 0,
+    "name": {
+      "first": "sabrina",
+      "last": "jalees"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "A.J. JAMAL",
-    "rating": 0,
+    "name": {
+      "first": "a.j.",
+      "last": "jamal"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "KEVIN JAMES",
-    "rating": 0,
+    "name": {
+      "first": "kevin",
+      "last": "james"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "RAY JAMES",
-    "rating": 0,
+    "name": {
+      "first": "ray",
+      "last": "james"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JIM JEFFERIES",
-    "rating": 0,
+    "name": {
+      "first": "jim",
+      "last": "jefferies"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JEN'S REVENGE",
-    "rating": 0,
+    "name": {
+      "first": "jen's",
+      "last": "revenge"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "RICHARD JENI",
-    "rating": 0,
+    "name": {
+      "first": "richard",
+      "last": "jeni"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ANTHONY JESELNIK",
-    "rating": 0,
+    "name": {
+      "first": "anthony",
+      "last": "jeselnik"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MAZ JOBRANI",
-    "rating": 0,
+    "name": {
+      "first": "maz",
+      "last": "jobrani"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JAMES JOHANN",
-    "rating": 0,
+    "name": {
+      "first": "james",
+      "last": "johann"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JAKE JOHANNSEN",
-    "rating": 0,
+    "name": {
+      "first": "jake",
+      "last": "johannsen"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "PETER JOHANSSON",
-    "rating": 0,
+    "name": {
+      "first": "peter",
+      "last": "johansson"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "TOMMY JOHNAGIN",
-    "rating": 0,
+    "name": {
+      "first": "tommy",
+      "last": "johnagin"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "THE AMAZING JOHNATHAN",
-    "rating": 0,
+    "name": {
+      "alias": "the amazing johnathan"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ANJELAH JOHNSON",
-    "rating": 0,
+    "name": {
+      "first": "anjelah",
+      "last": "johnson"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "LESLIE JONES",
-    "rating": 0,
+    "name": {
+      "first": "leslie",
+      "last": "jones"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "RETHA JONES",
-    "rating": 0,
+    "name": {
+      "first": "retha",
+      "last": "jones"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JEFF JOSEPH",
-    "rating": 0,
+    "name": {
+      "first": "jeff",
+      "last": "joseph"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "COLIN JOST",
-    "rating": 0,
+    "name": {
+      "first": "colin",
+      "last": "jost"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DARRELL JOYCE",
-    "rating": 0,
+    "name": {
+      "first": "darrell",
+      "last": "joyce"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JESSE JOYCE",
-    "rating": 0,
+    "name": {
+      "first": "jesse",
+      "last": "joyce"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ERIN JUDGE",
-    "rating": 0,
+    "name": {
+      "first": "erin",
+      "last": "judge"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "RANDY KAGAN",
-    "rating": 0,
+    "name": {
+      "first": "randy",
+      "last": "kagan"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "CORY KAHANEY",
-    "rating": 0,
+    "name": {
+      "first": "cory",
+      "last": "kahaney"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JAMIE KALER",
-    "rating": 0,
+    "name": {
+      "first": "jamie",
+      "last": "kaler"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MYQ KAPLAN",
-    "rating": 0,
+    "name": {
+      "first": "myq",
+      "last": "kaplan"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "VAL KAPPA",
-    "rating": 0,
+    "name": {
+      "first": "val",
+      "last": "kappa"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JAN KAREM",
-    "rating": 0,
+    "name": {
+      "first": "jan",
+      "last": "karem"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "IAN KARMEL",
-    "rating": 0,
+    "name": {
+      "first": "ian",
+      "last": "karmel"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MOSHE KASHER",
-    "rating": 0,
+    "name": {
+      "first": "moshe",
+      "last": "kasher"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JACKIE KASHIAN",
-    "rating": 0,
+    "name": {
+      "first": "jackie",
+      "last": "kashian"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JOHN KASSIR",
-    "rating": 0,
+    "name": {
+      "first": "john",
+      "last": "kassir"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "KEVIN KATAOKA",
-    "rating": 0,
+    "name": {
+      "first": "kevin",
+      "last": "kataoka"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JONATHAN KATZ",
-    "rating": 0,
+    "name": {
+      "first": "jonathan",
+      "last": "katz"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "LOUIS KATZ",
-    "rating": 0,
+    "name": {
+      "first": "louis",
+      "last": "katz"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "PATRICK KEANE",
-    "rating": 0,
+    "name": {
+      "first": "patrick",
+      "last": "keane"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "GEOFF KEITH",
-    "rating": 0,
+    "name": {
+      "first": "geoff",
+      "last": "keith"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "BILL KELLER",
-    "rating": 0,
+    "name": {
+      "first": "bill",
+      "last": "keller"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ANDRE KELLEY",
-    "rating": 0,
+    "name": {
+      "first": "andre",
+      "last": "kelley"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "GERALD KELLY",
-    "rating": 0,
+    "name": {
+      "first": "gerald",
+      "last": "kelly"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MARTHA KELLY",
-    "rating": 0,
+    "name": {
+      "first": "martha",
+      "last": "kelly"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ROBERT KELLY",
-    "rating": 0,
+    "name": {
+      "first": "robert",
+      "last": "kelly"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ANDREW KENNEDY",
-    "rating": 0,
+    "name": {
+      "first": "andrew",
+      "last": "kennedy"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DWAYNE KENNEDY",
-    "rating": 0,
+    "name": {
+      "first": "dwayne",
+      "last": "kennedy"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JAMIE KENNEDY",
-    "rating": 0,
+    "name": {
+      "first": "jamie",
+      "last": "kennedy"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "SCOTT KENNEDY",
-    "rating": 0,
+    "name": {
+      "first": "scott",
+      "last": "kennedy"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "TOM KENNY",
-    "rating": 0,
+    "name": {
+      "first": "tom",
+      "last": "kenny"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "LAURA KIGHTLINGER",
-    "rating": 0,
+    "name": {
+      "first": "laura",
+      "last": "kightlinger"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "BRIAN KILEY",
-    "rating": 0,
+    "name": {
+      "first": "brian",
+      "last": "kiley"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "KAREN KILGARIFF",
-    "rating": 0,
+    "name": {
+      "first": "karen",
+      "last": "kilgariff"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "LAURIE KILMARTIN",
-    "rating": 0,
+    "name": {
+      "first": "laurie",
+      "last": "kilmartin"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DANIEL KILPATRICK",
-    "rating": 0,
+    "name": {
+      "first": "daniel",
+      "last": "kilpatrick"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "KYLE KINANE",
-    "rating": 0,
+    "name": {
+      "first": "kyle",
+      "last": "kinane"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ANDY KINDLER",
-    "rating": 0,
+    "name": {
+      "first": "andy",
+      "last": "kindler"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "SAM KINISON",
-    "rating": 0,
+    "name": {
+      "first": "sam",
+      "last": "kinison"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ERIC KIRCHBERGER",
-    "rating": 0,
+    "name": {
+      "first": "eric",
+      "last": "kirchberger"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "BILL KIRCHENBAUER",
-    "rating": 0,
+    "name": {
+      "first": "bill",
+      "last": "kirchenbauer"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JEN KIRKMAN",
-    "rating": 0,
+    "name": {
+      "first": "jen",
+      "last": "kirkman"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JESSICA KIRSON",
-    "rating": 0,
+    "name": {
+      "first": "jessica",
+      "last": "kirson"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JESSI KLEIN",
-    "rating": 0,
+    "name": {
+      "first": "jessi",
+      "last": "klein"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DAVID KOECHNER",
-    "rating": 0,
+    "name": {
+      "first": "david",
+      "last": "koechner"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DANIELLE KOENIG",
-    "rating": 0,
+    "name": {
+      "first": "danielle",
+      "last": "koenig"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MATT KOFF",
-    "rating": 0,
+    "name": {
+      "first": "matt",
+      "last": "koff"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JOEY KOLA",
-    "rating": 0,
+    "name": {
+      "first": "joey",
+      "last": "kola"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "SUE KOLINSKY",
-    "rating": 0,
+    "name": {
+      "first": "sue",
+      "last": "kolinsky"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ALEX KOLL",
-    "rating": 0,
+    "name": {
+      "first": "alex",
+      "last": "koll"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "HARI KONDABOLU",
-    "rating": 0,
+    "name": {
+      "first": "hari",
+      "last": "kondabolu"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "LYNNE KOPLITZ",
-    "rating": 0,
+    "name": {
+      "first": "lynne",
+      "last": "koplitz"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ERIC KORNFELD",
-    "rating": 0,
+    "name": {
+      "first": "eric",
+      "last": "kornfeld"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MICHAEL KOSTA",
-    "rating": 0,
+    "name": {
+      "first": "michael",
+      "last": "kosta"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JO KOY",
-    "rating": 0,
+    "name": {
+      "first": "jo",
+      "last": "koy"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "PAUL KOZLOWSKI",
-    "rating": 0,
+    "name": {
+      "first": "paul",
+      "last": "kozlowski"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "BERT KREISCHER",
-    "rating": 0,
+    "name": {
+      "first": "bert",
+      "last": "kreischer"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "HOWARD KREMER",
-    "rating": 0,
+    "name": {
+      "first": "howard",
+      "last": "kremer"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "NICK KROLL",
-    "rating": 0,
+    "name": {
+      "first": "nick",
+      "last": "kroll"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "BEN KRONBERG",
-    "rating": 0,
+    "name": {
+      "first": "ben",
+      "last": "kronberg"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ERIC KRUG",
-    "rating": 0,
+    "name": {
+      "first": "eric",
+      "last": "krug"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JASON KULLER",
-    "rating": 0,
+    "name": {
+      "first": "jason",
+      "last": "kuller"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ELVIRA KURT",
-    "rating": 0,
+    "name": {
+      "first": "elvira",
+      "last": "kurt"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "CATHY LADMAN",
-    "rating": 0,
+    "name": {
+      "first": "cathy",
+      "last": "ladman"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JON LAJOIE",
-    "rating": 0,
+    "name": {
+      "first": "jon",
+      "last": "lajoie"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "LISA LAMPANELLI",
-    "rating": 0,
+    "name": {
+      "first": "lisa",
+      "last": "lampanelli"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JOHNNY LAMPERT",
-    "rating": 0,
+    "name": {
+      "first": "johnny",
+      "last": "lampert"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DAVE LANDAU",
-    "rating": 0,
+    "name": {
+      "first": "dave",
+      "last": "landau"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "LISA LANDRY",
-    "rating": 0,
+    "name": {
+      "first": "lisa",
+      "last": "landry"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MATTEO LANE",
-    "rating": 0,
+    "name": {
+      "first": "matteo",
+      "last": "lane"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "RODNEY LANEY",
-    "rating": 0,
+    "name": {
+      "first": "rodney",
+      "last": "laney"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ARTIE LANGE",
-    "rating": 0,
+    "name": {
+      "first": "artie",
+      "last": "lange"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "LANK & EARL",
-    "rating": 0,
+    "name": {
+      "group": "lank & earl"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ROCKY LAPORTE",
-    "rating": 0,
+    "name": {
+      "first": "rocky",
+      "last": "laporte"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "BILL LARKIN",
-    "rating": 0,
+    "name": {
+      "first": "bill",
+      "last": "larkin"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "LARRY THE CABLE GUY",
-    "rating": 0,
+    "name": {
+      "alias": "larry the cable guy"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JAY LARSON",
-    "rating": 0,
+    "name": {
+      "first": "jay",
+      "last": "larson"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "SHAUN LATHAM",
-    "rating": 0,
+    "name": {
+      "first": "shaun",
+      "last": "latham"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JIM LAULETTA",
-    "rating": 0,
+    "name": {
+      "first": "jim",
+      "last": "lauletta"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "HEATHER LAWLESS",
-    "rating": 0,
+    "name": {
+      "first": "heather",
+      "last": "lawless"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MIKE LAWRENCE",
-    "rating": 0,
+    "name": {
+      "first": "mike",
+      "last": "lawrence"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "NIGEL LAWRENCE",
-    "rating": 0,
+    "name": {
+      "first": "nigel",
+      "last": "lawrence"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "EMMY LAYBOURNE",
-    "rating": 0,
+    "name": {
+      "first": "emmy",
+      "last": "laybourne"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "GARY LAZER",
-    "rating": 0,
+    "name": {
+      "first": "gary",
+      "last": "lazer"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DENIS LEARY",
-    "rating": 0,
+    "name": {
+      "first": "denis",
+      "last": "leary"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ANNIE LEDERMAN",
-    "rating": 0,
+    "name": {
+      "first": "annie",
+      "last": "lederman"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "BOBBY LEE",
-    "rating": 0,
+    "name": {
+      "first": "bobby",
+      "last": "lee"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JAMIE LEE",
-    "rating": 0,
+    "name": {
+      "first": "jamie",
+      "last": "lee"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "PETE LEE",
-    "rating": 0,
+    "name": {
+      "first": "pete",
+      "last": "lee"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "NATASHA LEGGERO",
-    "rating": 0,
+    "name": {
+      "first": "natasha",
+      "last": "leggero"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "CAROL LEIFER",
-    "rating": 0,
+    "name": {
+      "first": "carol",
+      "last": "leifer"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DAMIEN LEMON",
-    "rating": 0,
+    "name": {
+      "first": "damien",
+      "last": "lemon"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "TOM LENNON",
-    "rating": 0,
+    "name": {
+      "first": "tom",
+      "last": "lennon"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DARRYL LENOX",
-    "rating": 0,
+    "name": {
+      "first": "darryl",
+      "last": "lenox"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "LESLIE",
-    "rating": 0,
+    "name": {
+      "alias": "leslie"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "TODD LEVIN",
-    "rating": 0,
+    "name": {
+      "first": "todd",
+      "last": "levin"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "CASH LEVY",
-    "rating": 0,
+    "name": {
+      "first": "cash",
+      "last": "levy"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DAN LEVY",
-    "rating": 0,
+    "name": {
+      "first": "dan",
+      "last": "levy"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "RICHARD LEWIS",
-    "rating": 0,
+    "name": {
+      "first": "richard",
+      "last": "lewis"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "AVI LIBERMAN",
-    "rating": 0,
+    "name": {
+      "first": "avi",
+      "last": "liberman"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "WENDY LIEBMAN",
-    "rating": 0,
+    "name": {
+      "first": "wendy",
+      "last": "liebman"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "GABE LIEDMAN",
-    "rating": 0,
+    "name": {
+      "first": "gabe",
+      "last": "liedman"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "RANDY LIEDTKE",
-    "rating": 0,
+    "name": {
+      "first": "randy",
+      "last": "liedtke"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "LIL REL",
-    "rating": 0,
+    "name": {
+      "first": "lil",
+      "last": "rel"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "RAY LIPOWSKI",
-    "rating": 0,
+    "name": {
+      "first": "ray",
+      "last": "lipowski"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JOE LIST",
-    "rating": 0,
+    "name": {
+      "first": "JOE",
+      "last": "LIST"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "BROKEN LIZARD",
-    "rating": 0,
+    "name": {
+      "first": "BROKEN",
+      "last": "LIZARD"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "FREDDY LOCKHART",
-    "rating": 0,
+    "name": {
+      "first": "FREDDY",
+      "last": "LOCKHART"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MICHAEL LOFTUS",
-    "rating": 0,
+    "name": {
+      "first": "MICHAEL",
+      "last": "LOFTUS"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JARED LOGAN",
-    "rating": 0,
+    "name": {
+      "first": "JARED",
+      "last": "LOGAN"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "PENELOPE LOMBARD",
-    "rating": 0,
+    "name": {
+      "first": "PENELOPE",
+      "last": "LOMBARD"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "GEORGE LOPEZ",
-    "rating": 0,
+    "name": {
+      "first": "GEORGE",
+      "last": "LOPEZ"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "LONI LOVE",
-    "rating": 0,
+    "name": {
+      "first": "loni",
+      "last": "love"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ADAM LOWITT",
-    "rating": 0,
+    "name": {
+      "first": "adam",
+      "last": "lowitt"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "AL LUBEL",
-    "rating": 0,
+    "name": {
+      "first": "al",
+      "last": "lubel"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "GILSON LUBIN",
-    "rating": 0,
+    "name": {
+      "first": "gilson",
+      "last": "lubin"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "THE LUCAS BROTHERS",
-    "rating": 0,
+    "name": {
+      "group": "the lucas brothers"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MIKE LUCAS",
-    "rating": 0,
+    "name": {
+      "first": "mike",
+      "last": "lucas"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "LUENELL",
-    "rating": 0,
+    "name": {
+      "alias": "luenell"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "LUST POLLUTION",
-    "rating": 0,
+    "name": {
+      "first": "lust",
+      "last": "pollution"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "BRENDAN LYNCH",
-    "rating": 0,
+    "name": {
+      "first": "brendan",
+      "last": "lynch"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "CARMEN LYNCH",
-    "rating": 0,
+    "name": {
+      "first": "carmen",
+      "last": "lynch"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "RON LYNCH",
-    "rating": 0,
+    "name": {
+      "first": "ron",
+      "last": "lynch"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "STEPHEN LYNCH",
-    "rating": 0,
+    "name": {
+      "first": "stephen",
+      "last": "lynch"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "NA'IM LYNN",
-    "rating": 0,
+    "name": {
+      "first": "na'im",
+      "last": "lynn"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "TODD LYNN",
-    "rating": 0,
+    "name": {
+      "first": "todd",
+      "last": "lynn"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JAMIE LISSOW",
-    "rating": 0,
+    "name": {
+      "first": "jamie",
+      "last": "lissow"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ROBERT MAC",
-    "rating": 0,
+    "name": {
+      "first": "robert",
+      "last": "mac"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "HAYES MACARTHUR",
-    "rating": 0,
+    "name": {
+      "first": "hayes",
+      "last": "macarthur"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MIKE MACDONALD",
-    "rating": 0,
+    "name": {
+      "first": "mike",
+      "last": "macdonald"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MIKE MACRAE",
-    "rating": 0,
+    "name": {
+      "first": "mike",
+      "last": "macrae"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "NORM MACDONALD",
-    "rating": 0,
+    "name": {
+      "first": "norm",
+      "last": "macdonald"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "APRIL MACIE",
-    "rating": 0,
+    "name": {
+      "first": "april",
+      "last": "macie"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MARY MACK",
-    "rating": 0,
+    "name": {
+      "first": "mary",
+      "last": "mack"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "KATHLEEN MADIGAN",
-    "rating": 0,
+    "name": {
+      "first": "kathleen",
+      "last": "madigan"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "AL MADRIGAL",
-    "rating": 0,
+    "name": {
+      "first": "al",
+      "last": "madrigal"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "BILL MAHER",
-    "rating": 0,
+    "name": {
+      "first": "bill",
+      "last": "maher"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "SHAUN MAJUMDER",
-    "rating": 0,
+    "name": {
+      "first": "shaun",
+      "last": "majumder"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JOE MANDE",
-    "rating": 0,
+    "name": {
+      "first": "joe",
+      "last": "mande"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MO MANDEL",
-    "rating": 0,
+    "name": {
+      "first": "mo",
+      "last": "mandel"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JON MANFRELLOTTI",
-    "rating": 0,
+    "name": {
+      "first": "jon",
+      "last": "manfrellotti"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "SEBASTIAN MANISCALCO",
-    "rating": 0,
+    "name": {
+      "first": "sebastian",
+      "last": "maniscalco"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "HENRIETTE MANTEL",
-    "rating": 0,
+    "name": {
+      "first": "henriette",
+      "last": "mantel"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "LENNY MARCUS",
-    "rating": 0,
+    "name": {
+      "first": "lenny",
+      "last": "marcus"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "BARRY MARDER",
-    "rating": 0,
+    "name": {
+      "first": "barry",
+      "last": "marder"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JEFF MARDER",
-    "rating": 0,
+    "name": {
+      "first": "jeff",
+      "last": "marder"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "BOB MARLEY",
-    "rating": 0,
+    "name": {
+      "first": "bob",
+      "last": "marley"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "STEVE MARMEL",
-    "rating": 0,
+    "name": {
+      "first": "steve",
+      "last": "marmel"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MARC MARON",
-    "rating": 0,
+    "name": {
+      "first": "marc",
+      "last": "maron"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DEMETRI MARTIN",
-    "rating": 0,
+    "name": {
+      "first": "demetri",
+      "last": "martin"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MONROE MARTIN",
-    "rating": 0,
+    "name": {
+      "first": "monroe",
+      "last": "martin"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "VARGUS MASON",
-    "rating": 0,
+    "name": {
+      "first": "vargus",
+      "last": "mason"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "BRAD MASTRANGELO",
-    "rating": 0,
+    "name": {
+      "first": "brad",
+      "last": "mastrangelo"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JOE MATARESE",
-    "rating": 0,
+    "name": {
+      "first": "joe",
+      "last": "matarese"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "PAM MATTESON",
-    "rating": 0,
+    "name": {
+      "first": "pam",
+      "last": "matteson"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "KAREEM MATTHEWS",
-    "rating": 0,
+    "name": {
+      "first": "kareem",
+      "last": "matthews"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "SABRINA MATTHEWS",
-    "rating": 0,
+    "name": {
+      "first": "sabrina",
+      "last": "matthews"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "SHANE MAUSS",
-    "rating": 0,
+    "name": {
+      "first": "shane",
+      "last": "mauss"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "RALPHIE MAY",
-    "rating": 0,
+    "name": {
+      "first": "ralphie",
+      "last": "may"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JACK MAYBERRY",
-    "rating": 0,
+    "name": {
+      "first": "jack",
+      "last": "mayberry"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "TOM MCCAFFREY",
-    "rating": 0,
+    "name": {
+      "first": "tom",
+      "last": "mccaffrey"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MATT MCCARTHY",
-    "rating": 0,
+    "name": {
+      "first": "matt",
+      "last": "mccarthy"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JULIAN MCCULLOUGH",
-    "rating": 0,
+    "name": {
+      "first": "julian",
+      "last": "mccullough"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "SULLY MCCULLOUGH",
-    "rating": 0,
+    "name": {
+      "first": "sully",
+      "last": "mccullough"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JOHN MCDOWELL",
-    "rating": 0,
+    "name": {
+      "first": "john",
+      "last": "mcdowell"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "LIAM MCENEANEY",
-    "rating": 0,
+    "name": {
+      "first": "liam",
+      "last": "mceneaney"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "REGGIE MCFADDEN",
-    "rating": 0,
+    "name": {
+      "first": "reggie",
+      "last": "mcfadden"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "BONNIE MCFARLANE",
-    "rating": 0,
+    "name": {
+      "first": "bonnie",
+      "last": "mcfarlane"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "STEVE MCGREW",
-    "rating": 0,
+    "name": {
+      "first": "steve",
+      "last": "mcgrew"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "CHRIS MCGUIRE",
-    "rating": 0,
+    "name": {
+      "first": "chris",
+      "last": "mcguire"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ALEXANDRA MCHALE",
-    "rating": 0,
+    "name": {
+      "first": "alexandra",
+      "last": "mchale"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JOHN MCKEEVER",
-    "rating": 0,
+    "name": {
+      "first": "john",
+      "last": "mckeever"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JUSTON MCKINNEY",
-    "rating": 0,
+    "name": {
+      "first": "juston",
+      "last": "mckinney"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "KEVIN MEANEY",
-    "rating": 0,
+    "name": {
+      "first": "kevin",
+      "last": "meaney"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "PAUL MECURIO",
-    "rating": 0,
+    "name": {
+      "first": "paul",
+      "last": "mecurio"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JOHN MELICHAR",
-    "rating": 0,
+    "name": {
+      "first": "john",
+      "last": "melichar"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DOUG MELLARD",
-    "rating": 0,
+    "name": {
+      "first": "doug",
+      "last": "mellard"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "AMANDA MELSON",
-    "rating": 0,
+    "name": {
+      "first": "amanda",
+      "last": "melson"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "CARLOS MENCIA",
-    "rating": 0,
+    "name": {
+      "first": "carlos",
+      "last": "mencia"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JOHN MENDOZA",
-    "rating": 0,
+    "name": {
+      "first": "john",
+      "last": "mendoza"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "RUSS MENEVE",
-    "rating": 0,
+    "name": {
+      "first": "russ",
+      "last": "meneve"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MIKE MERRILL",
-    "rating": 0,
+    "name": {
+      "first": "mike",
+      "last": "merrill"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "SUSAN MESSING",
-    "rating": 0,
+    "name": {
+      "first": "susan",
+      "last": "messing"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "KURT METZGER",
-    "rating": 0,
+    "name": {
+      "first": "kurt",
+      "last": "metzger"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MICHAEL JR.",
-    "rating": 0,
+    "name": {
+      "first": "michael",
+      "last": "jr."
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "LIZ MIELE",
-    "rating": 0,
+    "name": {
+      "first": "liz",
+      "last": "miele"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "CORY MILLER",
-    "rating": 0,
+    "name": {
+      "first": "cory",
+      "last": "miller"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "GEORGE MILLER",
-    "rating": 0,
+    "name": {
+      "first": "george",
+      "last": "miller"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "LARRY MILLER",
-    "rating": 0,
+    "name": {
+      "first": "larry",
+      "last": "miller"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "T.J. MILLER",
-    "rating": 0,
+    "name": {
+      "first": "t.j.",
+      "last": "miller"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DAN MINTZ",
-    "rating": 0,
+    "name": {
+      "first": "dan",
+      "last": "mintz"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "EUGENE MIRMAN",
-    "rating": 0,
+    "name": {
+      "first": "eugene",
+      "last": "mirman"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "FINESSE MITCHELL",
-    "rating": 0,
+    "name": {
+      "first": "finesse",
+      "last": "mitchell"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ALINGON MITRA",
-    "rating": 0,
+    "name": {
+      "first": "alingon",
+      "last": "mitra"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "STEVE MITTLEMAN",
-    "rating": 0,
+    "name": {
+      "first": "steve",
+      "last": "mittleman"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "BOBBY MIYAMOTO",
-    "rating": 0,
+    "name": {
+      "first": "bobby",
+      "last": "miyamoto"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JAY MOHR",
-    "rating": 0,
+    "name": {
+      "first": "jay",
+      "last": "mohr"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "LUCAS MOLANDES",
-    "rating": 0,
+    "name": {
+      "first": "lucas",
+      "last": "molandes"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ROBIN MONTAGUE",
-    "rating": 0,
+    "name": {
+      "first": "robin",
+      "last": "montague"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "KELLY MONTEITH",
-    "rating": 0,
+    "name": {
+      "first": "kelly",
+      "last": "monteith"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JOHN MOONEY",
-    "rating": 0,
+    "name": {
+      "first": "john",
+      "last": "mooney"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MEGAN MOONEY",
-    "rating": 0,
+    "name": {
+      "first": "megan",
+      "last": "mooney"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "PAUL MOONEY",
-    "rating": 0,
+    "name": {
+      "first": "paul",
+      "last": "mooney"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "HUGH MOORE",
-    "rating": 0,
+    "name": {
+      "first": "hugh",
+      "last": "moore"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "TREVOR MOORE",
-    "rating": 0,
+    "name": {
+      "first": "trevor",
+      "last": "moore"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DAVE MORDAL",
-    "rating": 0,
+    "name": {
+      "first": "dave",
+      "last": "mordal"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "RUDY MORENO",
-    "rating": 0,
+    "name": {
+      "first": "rudy",
+      "last": "moreno"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "SEAN MOREY",
-    "rating": 0,
+    "name": {
+      "first": "sean",
+      "last": "morey"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "TRACY MORGAN",
-    "rating": 0,
+    "name": {
+      "first": "tracy",
+      "last": "morgan"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "BRENT MORIN",
-    "rating": 0,
+    "name": {
+      "first": "brent",
+      "last": "morin"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "SAM MORRIL",
-    "rating": 0,
+    "name": {
+      "first": "sam",
+      "last": "morril"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JIM MORRIS",
-    "rating": 0,
+    "name": {
+      "first": "jim",
+      "last": "morris"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "VINCE MORRIS",
-    "rating": 0,
+    "name": {
+      "first": "vince",
+      "last": "morris"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "GREG MORTON",
-    "rating": 0,
+    "name": {
+      "first": "greg",
+      "last": "morton"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "VERONICA MOSEY",
-    "rating": 0,
+    "name": {
+      "first": "veronica",
+      "last": "mosey"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JOHN MULANEY",
-    "rating": 0,
+    "name": {
+      "first": "john",
+      "last": "mulaney"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "CHARLIE MURPHY",
-    "rating": 0,
+    "name": {
+      "first": "charlie",
+      "last": "murphy"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MORGAN MURPHY",
-    "rating": 0,
+    "name": {
+      "first": "morgan",
+      "last": "murphy"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "SEAN MURPHY",
-    "rating": 0,
+    "name": {
+      "first": "sean",
+      "last": "murphy"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "SUE MURPHY",
-    "rating": 0,
+    "name": {
+      "first": "sue",
+      "last": "murphy"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MUSIC OF U.S. BOMBS",
-    "rating": 0,
+    "name": {
+      "group": "Music of U.S. Bombs"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "KELLY MACFARLAND",
-    "rating": 0,
+    "name": {
+      "first": "kelly",
+      "last": "macfarland"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "CHRIS MATA",
-    "rating": 0,
+    "name": {
+      "first": "chris",
+      "last": "mata"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "KUMAIL NANJIANI",
-    "rating": 0,
+    "name": {
+      "first": "kumail",
+      "last": "nanjiani"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "PAUL NARDIZZI",
-    "rating": 0,
+    "name": {
+      "first": "paul",
+      "last": "nardizzi"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DAVID J. NASH",
-    "rating": 0,
+    "name": {
+      "first": "david",
+      "middle": "j.",
+      "last": "nash"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DAN NATURMAN",
-    "rating": 0,
+    "name": {
+      "first": "dan",
+      "last": "naturman"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "KEVIN NEALON",
-    "rating": 0,
+    "name": {
+      "first": "kevin",
+      "last": "nealon"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "TAYLOR NEGRON",
-    "rating": 0,
+    "name": {
+      "first": "taylor",
+      "last": "negron"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DANTE NERO",
-    "rating": 0,
+    "name": {
+      "first": "dante",
+      "last": "nero"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "J. CHRIS NEWBERG",
-    "rating": 0,
+    "name": {
+      "first": "j. chris",
+      "last": "newberg"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ADAM NEWMAN",
-    "rating": 0,
+    "name": {
+      "first": "adam",
+      "last": "newman"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "RYLEE NEWTON",
-    "rating": 0,
+    "name": {
+      "first": "rylee",
+      "last": "newton"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DIANE NICHOLS",
-    "rating": 0,
+    "name": {
+      "first": "diane",
+      "last": "nichols"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "BOB NICKMAN",
-    "rating": 0,
+    "name": {
+      "first": "bob",
+      "last": "nickman"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "TREVOR NOAH",
-    "rating": 0,
+    "name": {
+      "first": "trevor",
+      "last": "noah"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ANDREW NORELLI",
-    "rating": 0,
+    "name": {
+      "first": "andrew",
+      "last": "norelli"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "SUSAN NORFLEET",
-    "rating": 0,
+    "name": {
+      "first": "susan",
+      "last": "norfleet"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MARK NORMAND",
-    "rating": 0,
+    "name": {
+      "first": "mark",
+      "last": "normand"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JIM NORTON",
-    "rating": 0,
+    "name": {
+      "first": "jim",
+      "last": "norton"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "TIG NOTARO",
-    "rating": 0,
+    "name": {
+      "first": "tig",
+      "last": "notaro"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "B.J. NOVAK",
-    "rating": 0,
+    "name": {
+      "first": "b.j.",
+      "last": "novak"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DAVE NYSTROM",
-    "rating": 0,
+    "name": {
+      "first": "dave",
+      "last": "nystrom"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DAVID O'DOHERTY",
-    "rating": 0,
+    "name": {
+      "first": "david",
+      "last": "o'doherty"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ARDAL O'HANLON",
-    "rating": 0,
+    "name": {
+      "first": "ardal",
+      "last": "o'hanlon"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "PATRICE O'NEAL",
-    "rating": 0,
+    "name": {
+      "first": "patrice",
+      "last": "o'neal"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ROB O'REILLY",
-    "rating": 0,
+    "name": {
+      "first": "rob",
+      "last": "o'reilly"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "BIG JAY OAKERSON",
-    "rating": 0,
+    "name": {
+      "first": "big jay",
+      "last": "oakerson"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "BOB ODENKIRK",
-    "rating": 0,
+    "name": {
+      "first": "bob",
+      "last": "odenkirk"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "STEVE OEDEKERK",
-    "rating": 0,
+    "name": {
+      "first": "steve",
+      "last": "oedekerk"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "PAUL OGATA",
-    "rating": 0,
+    "name": {
+      "first": "paul",
+      "last": "ogata"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JOHN OLIVER",
-    "rating": 0,
+    "name": {
+      "first": "john",
+      "last": "oliver"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "LARRY OMAHA",
-    "rating": 0,
+    "name": {
+      "first": "larry",
+      "last": "omaha"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ALEX ORTIZ",
-    "rating": 0,
+    "name": {
+      "first": "alex",
+      "last": "ortiz"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "BOB OSCHACK",
-    "rating": 0,
+    "name": {
+      "first": "bob",
+      "last": "oschack"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "PATTON OSWALT",
-    "rating": 0,
+    "name": {
+      "first": "patton",
+      "last": "oswalt"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "RICK OVERTON",
-    "rating": 0,
+    "name": {
+      "first": "rick",
+      "last": "overton"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "GARY OWEN",
-    "rating": 0,
+    "name": {
+      "first": "gary",
+      "last": "owen"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "CARLOS OSCAR",
-    "rating": 0,
+    "name": {
+      "first": "carlos",
+      "last": "oscar"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "PHIL PALISOUL",
-    "rating": 0,
+    "name": {
+      "first": "phil",
+      "last": "palisoul"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "TOM PAPA",
-    "rating": 0,
+    "name": {
+      "first": "tom",
+      "last": "papa"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "YANNIS PAPPAS",
-    "rating": 0,
+    "name": {
+      "first": "yannis",
+      "last": "pappas"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ROB PARAVONIAN",
-    "rating": 0,
+    "name": {
+      "first": "rob",
+      "last": "paravonian"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JIMMY PARDO",
-    "rating": 0,
+    "name": {
+      "first": "jimmy",
+      "last": "pardo"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "TOM PARKS",
-    "rating": 0,
+    "name": {
+      "first": "tom",
+      "last": "parks"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "NIMESH PATEL",
-    "rating": 0,
+    "name": {
+      "first": "nimesh",
+      "last": "patel"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "LANCE PATRICK",
-    "rating": 0,
+    "name": {
+      "first": "lance",
+      "last": "patrick"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JAMES PATTERSON",
-    "rating": 0,
+    "name": {
+      "first": "james",
+      "last": "patterson"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "SEAN PATTON",
-    "rating": 0,
+    "name": {
+      "first": "sean",
+      "last": "patton"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DINA PEARLMAN",
-    "rating": 0,
+    "name": {
+      "first": "dina",
+      "last": "pearlman"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "BECKY PEDIGO",
-    "rating": 0,
+    "name": {
+      "first": "becky",
+      "last": "pedigo"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "EDDIE PENCE",
-    "rating": 0,
+    "name": {
+      "first": "eddie",
+      "last": "pence"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JOE PERA",
-    "rating": 0,
+    "name": {
+      "first": "joe",
+      "last": "pera"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "CHELSEA PERETTI",
-    "rating": 0,
+    "name": {
+      "first": "chelsea",
+      "last": "peretti"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DWAYNE PERKINS",
-    "rating": 0,
+    "name": {
+      "first": "dwayne",
+      "last": "perkins"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "TAMMY PESCATELLI",
-    "rating": 0,
+    "name": {
+      "first": "tammy",
+      "last": "pescatelli"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "RUSSELL PETERS",
-    "rating": 0,
+    "name": {
+      "first": "russell",
+      "last": "peters"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DAT PHAN",
-    "rating": 0,
+    "name": {
+      "first": "dat",
+      "last": "phan"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "HENRY PHILLIPS",
-    "rating": 0,
+    "name": {
+      "first": "henry",
+      "last": "phillips"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "PINATALAND",
-    "rating": 0,
+    "name": {
+      "alias": "pinataland"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JOHN PINETTE",
-    "rating": 0,
+    "name": {
+      "first": "john",
+      "last": "pinette"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MARK PITTA",
-    "rating": 0,
+    "name": {
+      "first": "mark",
+      "last": "pitta"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "GENE POMPA",
-    "rating": 0,
+    "name": {
+      "first": "gene",
+      "last": "pompa"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "CHIP POPE",
-    "rating": 0,
+    "name": {
+      "first": "chip",
+      "last": "pope"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JESSE POPP",
-    "rating": 0,
+    "name": {
+      "first": "jesse",
+      "last": "popp"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "CHRIS PORTER",
-    "rating": 0,
+    "name": {
+      "first": "chris",
+      "last": "porter"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "BRIAN POSEHN",
-    "rating": 0,
+    "name": {
+      "first": "brian",
+      "last": "posehn"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ESTHER POVITSKY",
-    "rating": 0,
+    "name": {
+      "first": "esther",
+      "last": "povitsky"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "SUSAN PREKEL",
-    "rating": 0,
+    "name": {
+      "first": "susan",
+      "last": "prekel"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MARC PRICE",
-    "rating": 0,
+    "name": {
+      "first": "marc",
+      "last": "price"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ROBBIE PRINTZ",
-    "rating": 0,
+    "name": {
+      "first": "robbie",
+      "last": "printz"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "FRANK PRINZI",
-    "rating": 0,
+    "name": {
+      "first": "frank",
+      "last": "prinzi"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "GREG PROOPS",
-    "rating": 0,
+    "name": {
+      "first": "greg",
+      "last": "proops"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "PAUL PROVENZA",
-    "rating": 0,
+    "name": {
+      "first": "paul",
+      "last": "provenza"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "RICHARD PRYOR",
-    "rating": 0,
+    "name": {
+      "first": "richard",
+      "last": "pryor"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ROB PUE",
-    "rating": 0,
+    "name": {
+      "first": "rob",
+      "last": "pue"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MARY LYNN RAJSKUB",
-    "rating": 0,
+    "name": {
+      "first": "mary",
+      "middle": "lynn",
+      "last": "rajskub"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "LOUIS RAMEY",
-    "rating": 0,
+    "name": {
+      "first": "louis",
+      "last": "ramey"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "CRYSTIAN RAMIREZ",
-    "rating": 0,
+    "name": {
+      "first": "crystian",
+      "last": "ramirez"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JOHN RAMSEY",
-    "rating": 0,
+    "name": {
+      "first": "john",
+      "last": "ramsey"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "STEVE RANNAZZISI",
-    "rating": 0,
+    "name": {
+      "first": "steve",
+      "last": "rannazzisi"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MARTA RAVIN",
-    "rating": 0,
+    "name": {
+      "first": "marta",
+      "last": "ravin"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DONNELL RAWLINGS",
-    "rating": 0,
+    "name": {
+      "first": "donnell",
+      "last": "rawlings"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ADAM RAY",
-    "rating": 0,
+    "name": {
+      "first": "adam",
+      "last": "ray"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JONAH RAY",
-    "rating": 0,
+    "name": {
+      "first": "jonah",
+      "last": "ray"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JASPER REDD",
-    "rating": 0,
+    "name": {
+      "first": "jasper",
+      "last": "redd"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JON REEP",
-    "rating": 0,
+    "name": {
+      "first": "jon",
+      "last": "reep"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "BRIAN REGAN",
-    "rating": 0,
+    "name": {
+      "first": "brian",
+      "last": "regan"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "CHRIS REGAN",
-    "rating": 0,
+    "name": {
+      "first": "chris",
+      "last": "regan"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "REGULAR JOES",
-    "rating": 0,
+    "name": {
+      "first": "regular",
+      "last": "joes"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ALEX REID",
-    "rating": 0,
+    "name": {
+      "first": "alex",
+      "last": "reid"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MELANIE RENO",
-    "rating": 0,
+    "name": {
+      "first": "melanie",
+      "last": "reno"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "RETTA",
-    "rating": 0,
+    "name": {
+      "alias": "retta"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "CAROLINE RHEA",
-    "rating": 0,
+    "name": {
+      "first": "caroline",
+      "last": "rhea"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "TOM RHODES",
-    "rating": 0,
+    "name": {
+      "first": "tom",
+      "last": "rhodes"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MIKE RICCA",
-    "rating": 0,
+    "name": {
+      "first": "mike",
+      "last": "ricca"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "CHRIS RICH",
-    "rating": 0,
+    "name": {
+      "first": "chris",
+      "last": "rich"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "RON RICHARDS",
-    "rating": 0,
+    "name": {
+      "first": "ron",
+      "last": "richards"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JOHN RIDLEY",
-    "rating": 0,
+    "name": {
+      "first": "john",
+      "last": "ridley"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ROB RIGGLE",
-    "rating": 0,
+    "name": {
+      "first": "rob",
+      "last": "riggle"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ANDY RITCHIE",
-    "rating": 0,
+    "name": {
+      "first": "andy",
+      "last": "ritchie"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ROGER RITTENHOUSE",
-    "rating": 0,
+    "name": {
+      "first": "roger",
+      "last": "rittenhouse"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "THAI RIVERA",
-    "rating": 0,
+    "name": {
+      "first": "thai",
+      "last": "rivera"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MARK ROBERTS",
-    "rating": 0,
+    "name": {
+      "first": "mark",
+      "last": "roberts"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "TONY ROBERTS",
-    "rating": 0,
+    "name": {
+      "first": "tony",
+      "last": "roberts"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "CRAIG ROBINSON",
-    "rating": 0,
+    "name": {
+      "first": "craig",
+      "last": "robinson"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "KEITH ROBINSON",
-    "rating": 0,
+    "name": {
+      "first": "keith",
+      "last": "robinson"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ALFRED ROBLES",
-    "rating": 0,
+    "name": {
+      "first": "alfred",
+      "last": "robles"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JERRY ROCHA",
-    "rating": 0,
+    "name": {
+      "first": "jerry",
+      "last": "rocha"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "CHRIS ROCK",
-    "rating": 0,
+    "name": {
+      "first": "chris",
+      "last": "rock"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "TONY ROCK",
-    "rating": 0,
+    "name": {
+      "first": "tony",
+      "last": "rock"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "RODMAN",
-    "rating": 0,
+    "name": {
+      "alias": "rodman"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "CLETO RODRIGUEZ",
-    "rating": 0,
+    "name": {
+      "first": "cleto",
+      "last": "rodriguez"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JOE ROGAN",
-    "rating": 0,
+    "name": {
+      "first": "joe",
+      "last": "rogan"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "GREGG ROGELL",
-    "rating": 0,
+    "name": {
+      "first": "gregg",
+      "last": "rogell"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JOHN ROGERS",
-    "rating": 0,
+    "name": {
+      "first": "john",
+      "last": "rogers"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "KENNY ROGERSON",
-    "rating": 0,
+    "name": {
+      "first": "kenny",
+      "last": "rogerson"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "RON G",
-    "rating": 0,
+    "name": {
+      "first": "ron",
+      "last": "g"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "KAREN RONTOWSKI",
-    "rating": 0,
+    "name": {
+      "first": "karen",
+      "last": "rontowski"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "KEVIN ROONEY",
-    "rating": 0,
+    "name": {
+      "first": "kevin",
+      "last": "rooney"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DAN ROSEN",
-    "rating": 0,
+    "name": {
+      "first": "dan",
+      "last": "rosen"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JEFF ROSS",
-    "rating": 0,
+    "name": {
+      "first": "jeff",
+      "last": "ross"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JON ROSS",
-    "rating": 0,
+    "name": {
+      "first": "jon",
+      "last": "ross"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "BARRY ROTHBART",
-    "rating": 0,
+    "name": {
+      "first": "barry",
+      "last": "rothbart"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DAN ROTHENBERG",
-    "rating": 0,
+    "name": {
+      "first": "dan",
+      "last": "rothenberg"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JIMMIE ROULETTE",
-    "rating": 0,
+    "name": {
+      "first": "jimmie",
+      "last": "roulette"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "SEAN ROUSE",
-    "rating": 0,
+    "name": {
+      "first": "sean",
+      "last": "rouse"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "BEN ROY",
-    "rating": 0,
+    "name": {
+      "first": "ben",
+      "last": "roy"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "CHUCK ROY",
-    "rating": 0,
+    "name": {
+      "first": "chuck",
+      "last": "roy"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MIKE ROYCE",
-    "rating": 0,
+    "name": {
+      "first": "mike",
+      "last": "royce"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JORDAN RUBIN",
-    "rating": 0,
+    "name": {
+      "first": "jordan",
+      "last": "rubin"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "RUDY RUSH",
-    "rating": 0,
+    "name": {
+      "first": "rudy",
+      "last": "rush"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "NICK RUTHERFORD",
-    "rating": 0,
+    "name": {
+      "first": "nick",
+      "last": "rutherford"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "TOM RYAN",
-    "rating": 0,
+    "name": {
+      "first": "tom",
+      "last": "ryan"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JOHN ROY",
-    "rating": 0,
+    "name": {
+      "first": "john",
+      "last": "roy"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "BOB SAGET",
-    "rating": 0,
+    "name": {
+      "first": "bob",
+      "last": "saget"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DAN SALLY",
-    "rating": 0,
+    "name": {
+      "first": "dan",
+      "last": "sally"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ANDY SAMBERG",
-    "rating": 0,
+    "name": {
+      "first": "andy",
+      "last": "samberg"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "EDWIN SAN JUAN",
-    "rating": 0,
+    "name": {
+      "first": "edwin",
+      "middle": "san",
+      "last": "juan"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JOHNNY SANCHEZ",
-    "rating": 0,
+    "name": {
+      "first": "johnny",
+      "last": "sanchez"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "LOWELL SANDERS",
-    "rating": 0,
+    "name": {
+      "first": "lowell",
+      "last": "sanders"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ADAM SANDLER",
-    "rating": 0,
+    "name": {
+      "first": "adam",
+      "last": "sandler"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "BILL SANTIAGO",
-    "rating": 0,
+    "name": {
+      "first": "bill",
+      "last": "santiago"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ANDREW SANTINO",
-    "rating": 0,
+    "name": {
+      "first": "andrew",
+      "last": "santino"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "FRANK SANTORELLI",
-    "rating": 0,
+    "name": {
+      "first": "frank",
+      "last": "santorelli"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "EDDIE SARFATY",
-    "rating": 0,
+    "name": {
+      "first": "eddie",
+      "last": "sarfaty"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "KRISTEN SCHAAL",
-    "rating": 0,
+    "name": {
+      "first": "kristen",
+      "last": "schaal"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JEREMY SCHACHTER",
-    "rating": 0,
+    "name": {
+      "first": "jeremy",
+      "last": "schachter"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "SARA SCHAEFER",
-    "rating": 0,
+    "name": {
+      "first": "sara",
+      "last": "schaefer"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "PAUL SCHEER",
-    "rating": 0,
+    "name": {
+      "first": "paul",
+      "last": "scheer"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MARK SCHIFF",
-    "rating": 0,
+    "name": {
+      "first": "mark",
+      "last": "schiff"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ROBERT SCHIMMEL",
-    "rating": 0,
+    "name": {
+      "first": "robert",
+      "last": "schimmel"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "FLIP SCHULTZ",
-    "rating": 0,
+    "name": {
+      "first": "flip",
+      "last": "schultz"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "AMY SCHUMER",
-    "rating": 0,
+    "name": {
+      "first": "amy",
+      "last": "schumer"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "BRIAN SCOLARO",
-    "rating": 0,
+    "name": {
+      "first": "brian",
+      "last": "scolaro"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "RORY SCOVEL",
-    "rating": 0,
+    "name": {
+      "first": "rory",
+      "last": "scovel"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "KEVIN SECCIA",
-    "rating": 0,
+    "name": {
+      "first": "kevin",
+      "last": "seccia"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "TOM SEGURA",
-    "rating": 0,
+    "name": {
+      "first": "tom",
+      "last": "segura"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MARK SERRITELLA",
-    "rating": 0,
+    "name": {
+      "first": "mark",
+      "last": "serritella"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ROSS SHAFER",
-    "rating": 0,
+    "name": {
+      "first": "ross",
+      "last": "shafer"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "STEVE SHAFFER",
-    "rating": 0,
+    "name": {
+      "first": "steve",
+      "last": "shaffer"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ARI SHAFFIR",
-    "rating": 0,
+    "name": {
+      "first": "ari",
+      "last": "shaffir"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "T. SEAN SHANNON",
-    "rating": 0,
+    "name": {
+      "first": "T. SEAN",
+      "last": "SHANNON"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "TOM SHARPE",
-    "rating": 0,
+    "name": {
+      "first": "tom",
+      "last": "sharpe"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JULIUS SHARPE",
-    "rating": 0,
+    "name": {
+      "first": "julius",
+      "last": "sharpe"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "BOB SHAW",
-    "rating": 0,
+    "name": {
+      "first": "bob",
+      "last": "shaw"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "VICKIE SHAW",
-    "rating": 0,
+    "name": {
+      "first": "vickie",
+      "last": "shaw"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DEBBIE SHEA",
-    "rating": 0,
+    "name": {
+      "first": "debbie",
+      "last": "shea"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "RONDELL SHERIDAN",
-    "rating": 0,
+    "name": {
+      "first": "rondell",
+      "last": "sheridan"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "TOM SHILLUE",
-    "rating": 0,
+    "name": {
+      "first": "tom",
+      "last": "shillue"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ILIZA SHLESINGER",
-    "rating": 0,
+    "name": {
+      "first": "iliza",
+      "last": "shlesinger"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "CRAIG SHOEMAKER",
-    "rating": 0,
+    "name": {
+      "first": "craig",
+      "last": "shoemaker"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JIM SHORT",
-    "rating": 0,
+    "name": {
+      "first": "jim",
+      "last": "short"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "WIL SHRINER",
-    "rating": 0,
+    "name": {
+      "first": "wil",
+      "last": "shriner"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JIMMY SHUBERT",
-    "rating": 0,
+    "name": {
+      "first": "jimmy",
+      "last": "shubert"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "RYAN SICKLER",
-    "rating": 0,
+    "name": {
+      "first": "ryan",
+      "last": "sickler"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ALI SIDDIQ",
-    "rating": 0,
+    "name": {
+      "first": "ali",
+      "last": "siddiq"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MARIANNE SIERK",
-    "rating": 0,
+    "name": {
+      "first": "marianne",
+      "last": "sierk"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "SARAH SILVERMAN",
-    "rating": 0,
+    "name": {
+      "first": "sarah",
+      "last": "silverman"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MAX SILVESTRI",
-    "rating": 0,
+    "name": {
+      "first": "max",
+      "last": "silvestri"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "STEVE SIMEONE",
-    "rating": 0,
+    "name": {
+      "first": "steve",
+      "last": "simeone"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "SAM SIMMONS",
-    "rating": 0,
+    "name": {
+      "first": "sam",
+      "last": "simmons"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "TOM SIMMONS",
-    "rating": 0,
+    "name": {
+      "first": "tom",
+      "last": "simmons"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "SINBAD",
-    "rating": 0,
+    "name": {
+      "alias": "sinbad"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "KABIR SINGH",
-    "rating": 0,
+    "name": {
+      "first": "kabir",
+      "last": "singh"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JACOB SIROF",
-    "rating": 0,
+    "name": {
+      "first": "jacob",
+      "last": "sirof"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "CAROL SISKIND",
-    "rating": 0,
+    "name": {
+      "first": "carol",
+      "last": "siskind"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "SKLAR BROTHERS",
-    "rating": 0,
+    "name": {
+      "first": "sklar",
+      "last": "brothers"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "CHUCK SKLAR",
-    "rating": 0,
+    "name": {
+      "first": "chuck",
+      "last": "sklar"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DWIGHT SLADE",
-    "rating": 0,
+    "name": {
+      "first": "dwight",
+      "last": "slade"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JENNY SLATE",
-    "rating": 0,
+    "name": {
+      "first": "jenny",
+      "last": "slate"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "BOBBY SLAYTON",
-    "rating": 0,
+    "name": {
+      "first": "bobby",
+      "last": "slayton"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "TOMMY SLEDGE",
-    "rating": 0,
+    "name": {
+      "first": "tommy",
+      "last": "sledge"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "SLOVIN & ALLEN",
-    "rating": 0,
+    "name": {
+      "group": "slovin & allen"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "SHERROD SMALL",
-    "rating": 0,
+    "name": {
+      "first": "sherrod",
+      "last": "small"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "RICKEY SMILEY",
-    "rating": 0,
+    "name": {
+      "first": "rickey",
+      "last": "smiley"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ANDI SMITH",
-    "rating": 0,
+    "name": {
+      "first": "andi",
+      "last": "smith"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "AUGGIE SMITH",
-    "rating": 0,
+    "name": {
+      "first": "auggie",
+      "last": "smith"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "BRIDGET SMITH",
-    "rating": 0,
+    "name": {
+      "first": "bridget",
+      "last": "smith"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JAMES SMITH",
-    "rating": 0,
+    "name": {
+      "first": "james",
+      "last": "smith"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MARGARET SMITH",
-    "rating": 0,
+    "name": {
+      "first": "margaret",
+      "last": "smith"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "OWEN SMITH",
-    "rating": 0,
+    "name": {
+      "first": "owen",
+      "last": "smith"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "TRACY SMITH",
-    "rating": 0,
+    "name": {
+      "first": "tracy",
+      "last": "smith"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JB SMOOVE",
-    "rating": 0,
+    "name": {
+      "first": "jb",
+      "last": "smoove"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JOSH SNEED",
-    "rating": 0,
+    "name": {
+      "first": "josh",
+      "last": "sneed"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "CARRIE SNOW",
-    "rating": 0,
+    "name": {
+      "first": "carrie",
+      "last": "snow"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "BARRY SOBEL",
-    "rating": 0,
+    "name": {
+      "first": "barry",
+      "last": "sobel"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DAN SODER",
-    "rating": 0,
+    "name": {
+      "first": "dan",
+      "last": "soder"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JONATHAN SOLOMON",
-    "rating": 0,
+    "name": {
+      "first": "jonathan",
+      "last": "solomon"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MICHAEL SOMERVILLE",
-    "rating": 0,
+    "name": {
+      "first": "michael",
+      "last": "somerville"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "SOMMORE",
-    "rating": 0,
+    "name": {
+      "alias": "sommore"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "FREDDY SOTO",
-    "rating": 0,
+    "name": {
+      "first": "freddy",
+      "last": "soto"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DAVID SPADE",
-    "rating": 0,
+    "name": {
+      "first": "david",
+      "last": "spade"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "HAL SPARKS",
-    "rating": 0,
+    "name": {
+      "first": "hal",
+      "last": "sparks"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ARIES SPEARS",
-    "rating": 0,
+    "name": {
+      "first": "aries",
+      "last": "spears"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "CHRIS SPENCER",
-    "rating": 0,
+    "name": {
+      "first": "chris",
+      "last": "spencer"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "WENDY SPERO",
-    "rating": 0,
+    "name": {
+      "first": "wendy",
+      "last": "spero"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "PETER SPRUYT",
-    "rating": 0,
+    "name": {
+      "first": "peter",
+      "last": "spruyt"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DAN ST. GERMAIN",
-    "rating": 0,
+    "name": {
+      "first": "dan",
+      "last": "st. germain"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DOUG STANHOPE",
-    "rating": 0,
+    "name": {
+      "first": "doug",
+      "last": "stanhope"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ROB STAPLETON",
-    "rating": 0,
+    "name": {
+      "first": "rob",
+      "last": "stapleton"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JOE STARR",
-    "rating": 0,
+    "name": {
+      "first": "joe",
+      "last": "starr"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JOHNNY STEELE",
-    "rating": 0,
+    "name": {
+      "first": "johnny",
+      "last": "steele"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "STELLA",
-    "rating": 0,
+    "name": "stella",
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JAMES STEPHENS III",
-    "rating": 0,
+    "name": {
+      "first": "james",
+      "last": "stephens",
+      "suffix": "iii"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "BRODY STEVENS",
-    "rating": 0,
+    "name": {
+      "first": "brody",
+      "last": "stevens"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "STEVIE RAY FROMSTEIN",
-    "rating": 0,
+    "name": {
+      "first": "stevie",
+      "middle": "ray",
+      "last": "fromstein"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JON STEWART",
-    "rating": 0,
+    "name": {
+      "first": "jon",
+      "last": "stewart"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JEFF STILSON",
-    "rating": 0,
+    "name": {
+      "first": "jeff",
+      "last": "stilson"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "CARMEN STOCKTON",
-    "rating": 0,
+    "name": {
+      "first": "carmen",
+      "last": "stockton"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "FRED STOLLER",
-    "rating": 0,
+    "name": {
+      "first": "fred",
+      "last": "stoller"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "TONY STONE",
-    "rating": 0,
+    "name": {
+      "first": "tony",
+      "last": "stone"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JUNIOR STOPKA",
-    "rating": 0,
+    "name": {
+      "first": "junior",
+      "last": "stopka"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "RYAN STOUT",
-    "rating": 0,
+    "name": {
+      "first": "ryan",
+      "last": "stout"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "SMOKEY SUAREZ",
-    "rating": 0,
+    "name": {
+      "first": "smokey",
+      "last": "suarez"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "CJ SULLIVAN",
-    "rating": 0,
+    "name": {
+      "first": "cj",
+      "last": "sullivan"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "SEAN SULLIVAN",
-    "rating": 0,
+    "name": {
+      "first": "sean",
+      "last": "sullivan"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "NICK SWARDSON",
-    "rating": 0,
+    "name": {
+      "first": "nick",
+      "last": "swardson"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JULIA SWEENEY",
-    "rating": 0,
+    "name": {
+      "first": "julia",
+      "last": "sweeney"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MIKE SWEENEY",
-    "rating": 0,
+    "name": {
+      "first": "mike",
+      "last": "sweeney"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "STEVE SWEENEY",
-    "rating": 0,
+    "name": {
+      "first": "steve",
+      "last": "sweeney"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "LAURA SWISHER",
-    "rating": 0,
+    "name": {
+      "first": "laura",
+      "last": "swisher"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "WANDA SYKES",
-    "rating": 0,
+    "name": {
+      "first": "wanda",
+      "last": "sykes"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "WIL SYLVINCE",
-    "rating": 0,
+    "name": {
+      "first": "wil",
+      "last": "sylvince"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ANTHONY SZPAK",
-    "rating": 0,
+    "name": {
+      "first": "anthony",
+      "last": "szpak"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "KEVIN SHEA",
-    "rating": 0,
+    "name": {
+      "first": "kevin",
+      "last": "shea"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MICHAEL SHOWALTER",
-    "rating": 0,
+    "name": {
+      "first": "michael",
+      "last": "showalter"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "HARRIS STANTON",
-    "rating": 0,
+    "name": {
+      "first": "harris",
+      "last": "stanton"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "GEOFF TATE",
-    "rating": 0,
+    "name": {
+      "first": "geoff",
+      "last": "tate"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "GRANT TAYLOR",
-    "rating": 0,
+    "name": {
+      "first": "grant",
+      "last": "taylor"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MARK CRAIG TAYLOR",
-    "rating": 0,
+    "name": {
+      "first": "mark",
+      "middle": "craig",
+      "last": "taylor"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "TESS",
-    "rating": 0,
+    "name": {
+      "alias": "tess"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "THE CHALKS",
-    "rating": 0,
+    "name": {
+      "group": "the chalks"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "THE HIGGINS BOYS & GRUBER",
-    "rating": 0,
+    "name": {
+      "group": "the higgins boys & gruber"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MARC THEOBALD",
-    "rating": 0,
+    "name": {
+      "first": "marc",
+      "last": "theobald"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ALEX THOMAS",
-    "rating": 0,
+    "name": {
+      "first": "alex",
+      "last": "thomas"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "WARREN THOMAS",
-    "rating": 0,
+    "name": {
+      "first": "warren",
+      "last": "thomas"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DAVE THOMASON",
-    "rating": 0,
+    "name": {
+      "first": "dave",
+      "last": "thomason"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "TIM THOMERSON",
-    "rating": 0,
+    "name": {
+      "first": "tim",
+      "last": "thomerson"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "SCOTT THOMPSON",
-    "rating": 0,
+    "name": {
+      "first": "scott",
+      "last": "thompson"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "NICK THUNE",
-    "rating": 0,
+    "name": {
+      "first": "nick",
+      "last": "thune"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "SARAH TIANA",
-    "rating": 0,
+    "name": {
+      "first": "sarah",
+      "last": "tiana"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JIMMY TINGLE",
-    "rating": 0,
+    "name": {
+      "first": "jimmy",
+      "last": "tingle"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "CHRISTOPHER TITUS",
-    "rating": 0,
+    "name": {
+      "first": "christopher",
+      "last": "titus"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "PRESCOTT TOLK",
-    "rating": 0,
+    "name": {
+      "first": "prescott",
+      "last": "tolk"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JUDY TOLL",
-    "rating": 0,
+    "name": {
+      "first": "judy",
+      "last": "toll"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "PAUL F. TOMPKINS",
+    "name": {
+      "first": "paul",
+      "middle": "f.",
+      "last": "tompkins"
+    },
     "rating": 4,
     "notes": "",
     "albums": [
@@ -4669,7 +7395,10 @@
         "yearReleased": 2012
       },
       {
-        "name": "Freak Wharf",
+        "name": {
+          "first": "Freak",
+          "last": "Wharf"
+        },
         "yearReleased": 2009
       },
       {
@@ -4679,468 +7408,750 @@
     ]
   },
   {
-    "name": "LUKE TORRES",
-    "rating": 0,
+    "name": {
+      "first": "luke",
+      "last": "torres"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "GUY TORRY",
-    "rating": 0,
+    "name": {
+      "first": "guy",
+      "last": "torry"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DANIEL TOSH",
-    "rating": 0,
+    "name": {
+      "first": "daniel",
+      "last": "tosh"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JESUS TREJO",
-    "rating": 0,
+    "name": {
+      "first": "jesus",
+      "last": "trejo"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "NATHAN TRENHOLM",
-    "rating": 0,
+    "name": {
+      "first": "nathan",
+      "last": "trenholm"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "LIZA TREYGER",
-    "rating": 0,
+    "name": {
+      "first": "liza",
+      "last": "treyger"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "STEVE TRILLING",
-    "rating": 0,
+    "name": {
+      "first": "steve",
+      "last": "trilling"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "SAM TRIPOLI",
-    "rating": 0,
+    "name": {
+      "first": "sam",
+      "last": "tripoli"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "BRIAN TUCKER",
-    "rating": 0,
+    "name": {
+      "first": "brian",
+      "last": "tucker"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "BRYAN TUCKER",
-    "rating": 0,
+    "name": {
+      "first": "bryan",
+      "last": "tucker"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "NICK TURNER",
-    "rating": 0,
+    "name": {
+      "first": "nick",
+      "last": "turner"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "UPRIGHT CITIZENS BRIGADE",
-    "rating": 0,
+    "name": {
+      "group": "upright citizens brigade"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "GARY VALENTINE",
-    "rating": 0,
+    "name": {
+      "first": "gary",
+      "last": "valentine"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "KRISTIAN VALLEE",
-    "rating": 0,
+    "name": {
+      "first": "kristian",
+      "last": "vallee"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "CHARLES VAN DEVENTER",
-    "rating": 0,
+    "name": {
+      "first": "charles",
+      "last": "van deventer"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "BROOKE VAN POPPELEN",
-    "rating": 0,
+    "name": {
+      "first": "brooke",
+      "last": "van poppelen"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MARONZIO VANCE",
-    "rating": 0,
+    "name": {
+      "first": "maronzio",
+      "last": "vance"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "PAUL VARGHESE",
-    "rating": 0,
+    "name": {
+      "first": "paul",
+      "last": "varghese"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "VICTOR VARNADO",
-    "rating": 0,
+    "name": {
+      "first": "victor",
+      "last": "varnado"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "NICK VATTEROTT",
-    "rating": 0,
+    "name": {
+      "first": "nick",
+      "last": "vatterott"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "BARON VAUGHN",
-    "rating": 0,
+    "name": {
+      "first": "baron",
+      "last": "vaughn"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MIKE VECCHIONE",
-    "rating": 0,
+    "name": {
+      "first": "mike",
+      "last": "vecchione"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JOEY VEGA",
-    "rating": 0,
+    "name": {
+      "first": "joey",
+      "last": "vega"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "TAMI VERNEKOFF",
-    "rating": 0,
+    "name": {
+      "first": "tami",
+      "last": "vernekoff"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "THEA VIDALE",
-    "rating": 0,
+    "name": {
+      "first": "thea",
+      "last": "vidale"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MARK VIERA",
-    "rating": 0,
+    "name": {
+      "first": "mark",
+      "last": "viera"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "CHARLIE VIRACOLA",
-    "rating": 0,
+    "name": {
+      "first": "charlie",
+      "last": "viracola"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "KRISTEEN VON HAGEN",
-    "rating": 0,
+    "name": {
+      "first": "kristeen",
+      "last": "von hagen"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "THEO VON",
-    "rating": 0,
+    "name": {
+      "first": "theo",
+      "last": "von"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "RICH VOS",
-    "rating": 0,
+    "name": {
+      "first": "rich",
+      "last": "vos"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JIMMIE WALKER",
-    "rating": 0,
+    "name": {
+      "first": "jimmie",
+      "last": "walker"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "J.J. WALL",
-    "rating": 0,
+    "name": {
+      "first": "j.j.",
+      "last": "wall"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "BRENDON WALSH",
-    "rating": 0,
+    "name": {
+      "first": "brendon",
+      "last": "walsh"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "SHENG WANG",
-    "rating": 0,
+    "name": {
+      "first": "sheng",
+      "last": "wang"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "RUSTY WARD",
-    "rating": 0,
+    "name": {
+      "first": "rusty",
+      "last": "ward"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MARSHA WARFIELD",
-    "rating": 0,
+    "name": {
+      "first": "marsha",
+      "last": "warfield"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "GREG WARREN",
-    "rating": 0,
+    "name": {
+      "first": "greg",
+      "last": "warren"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "BENGT WASHBURN",
-    "rating": 0,
+    "name": {
+      "first": "bengt",
+      "last": "washburn"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "BILLY D. WASHINGTON",
-    "rating": 0,
+    "name": {
+      "first": "billy",
+      "middle": "d.",
+      "last": "washington"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JODIE WASSERMAN",
-    "rating": 0,
+    "name": {
+      "first": "jodie",
+      "last": "wasserman"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "REESE WATERS",
-    "rating": 0,
+    "name": {
+      "first": "reese",
+      "last": "waters"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "CHUCK WATKINS",
-    "rating": 0,
+    "name": {
+      "first": "chuck",
+      "last": "watkins"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "REGGIE WATTS",
-    "rating": 0,
+    "name": {
+      "first": "reggie",
+      "last": "watts"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DAMON WAYANS",
-    "rating": 0,
+    "name": {
+      "first": "damon",
+      "last": "wayans"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "AARON WEAVER",
-    "rating": 0,
+    "name": {
+      "first": "aaron",
+      "last": "weaver"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "BRENT WEINBACH",
-    "rating": 0,
+    "name": {
+      "first": "brent",
+      "last": "weinbach"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MATT WEINHOLD",
-    "rating": 0,
+    "name": {
+      "first": "matt",
+      "last": "weinhold"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ROB WEINSTEIN",
-    "rating": 0,
+    "name": {
+      "first": "rob",
+      "last": "weinstein"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ALLAN WELLS",
-    "rating": 0,
+    "name": {
+      "first": "allan",
+      "last": "wells"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JOE WENGERT",
-    "rating": 0,
+    "name": {
+      "first": "joe",
+      "last": "wengert"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JOHN WESSLING",
-    "rating": 0,
+    "name": {
+      "first": "john",
+      "last": "wessling"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "BROOKS WHEELAN",
-    "rating": 0,
+    "name": {
+      "first": "brooks",
+      "last": "wheelan"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "RON WHITE",
-    "rating": 0,
+    "name": {
+      "first": "ron",
+      "last": "white"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "STEVE WHITE",
-    "rating": 0,
+    "name": {
+      "first": "steve",
+      "last": "white"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JACK WHITEHALL",
-    "rating": 0,
+    "name": {
+      "first": "jack",
+      "last": "whitehall"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "BRAD WILLIAMS",
-    "rating": 0,
+    "name": {
+      "first": "brad",
+      "last": "williams"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DOUG WILLIAMS",
-    "rating": 0,
+    "name": {
+      "first": "doug",
+      "last": "williams"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "HARLAND WILLIAMS",
-    "rating": 0,
+    "name": {
+      "first": "harland",
+      "last": "williams"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "KATT WILLIAMS",
-    "rating": 0,
+    "name": {
+      "first": "katt",
+      "last": "williams"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "NEMA WILLIAMS",
-    "rating": 0,
+    "name": {
+      "first": "nema",
+      "last": "williams"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "RICH WILLIAMS",
-    "rating": 0,
+    "name": {
+      "first": "rich",
+      "last": "williams"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ROBIN WILLIAMS",
-    "rating": 0,
+    "name": {
+      "first": "robin",
+      "last": "williams"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JJ WILLIAMSON",
-    "rating": 0,
+    "name": {
+      "first": "jj",
+      "last": "williamson"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "TAYLOR WILLIAMSON",
-    "rating": 0,
+    "name": {
+      "first": "taylor",
+      "last": "williamson"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JANE EDITH WILSON",
-    "rating": 0,
+    "name": {
+      "first": "jane",
+      "middle": "edith",
+      "last": "wilson"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "STEVE WILSON",
-    "rating": 0,
+    "name": {
+      "first": "steve",
+      "last": "wilson"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MIKE E. WINFIELD",
-    "rating": 0,
+    "name": {
+      "first": "mike",
+      "middle": "e.",
+      "last": "winfield"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "LIZZ WINSTEAD",
-    "rating": 0,
+    "name": {
+      "first": "lizz",
+      "last": "winstead"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ANITA WISE",
-    "rating": 0,
+    "name": {
+      "first": "anita",
+      "last": "wise"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DRAKE WITHAM",
-    "rating": 0,
+    "name": {
+      "first": "drake",
+      "last": "witham"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DOMINIQUE WITTEN",
-    "rating": 0,
+    "name": {
+      "first": "dominique",
+      "last": "witten"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ISAAC WITTY",
-    "rating": 0,
+    "name": {
+      "first": "isaac",
+      "last": "witty"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ALI WONG",
-    "rating": 0,
+    "name": {
+      "first": "ali",
+      "last": "wong"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ANDY WOODHULL",
-    "rating": 0,
+    "name": {
+      "first": "andy",
+      "last": "woodhull"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "TONY WOODS",
-    "rating": 0,
+    "name": {
+      "first": "tony",
+      "last": "woods"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "GLENN WOOL",
-    "rating": 0,
+    "name": {
+      "first": "glenn",
+      "last": "wool"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ROYALE WATKINS",
-    "rating": 0,
+    "name": {
+      "first": "royale",
+      "last": "watkins"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "SUZANNE WHANG",
-    "rating": 0,
+    "name": {
+      "first": "suzanne",
+      "last": "whang"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DAMON WILLIAMS",
-    "rating": 0,
+    "name": {
+      "first": "damon",
+      "last": "williams"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "KEVIN WILLIAMS",
-    "rating": 0,
+    "name": {
+      "first": "kevin",
+      "last": "williams"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ROY WOOD JR.",
-    "rating": 0,
+    "name": {
+      "first": "roy",
+      "last": "wood",
+      "suffix": "jr."
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "\"WEIRD AL\" YANKOVIC",
-    "rating": 0,
+    "name": {
+      "first": "\"weird al\"",
+      "last": "yankovic"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JOE YANNETTY",
-    "rating": 0,
+    "name": {
+      "first": "joe",
+      "last": "yannetty"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "MIKE YARD",
-    "rating": 0,
+    "name": {
+      "first": "mike",
+      "last": "yard"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "GINA YASHERE",
-    "rating": 0,
+    "name": {
+      "first": "gina",
+      "last": "yashere"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "DUSTIN YBARRA",
-    "rating": 0,
+    "name": {
+      "first": "dustin",
+      "last": "ybarra"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "BYRON YEE",
-    "rating": 0,
+    "name": {
+      "first": "byron",
+      "last": "yee"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "TIM YOUNG",
-    "rating": 0,
+    "name": {
+      "first": "tim",
+      "last": "young"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "HAMPTON YOUNT",
-    "rating": 0,
+    "name": {
+      "first": "hampton",
+      "last": "yount"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "ANDY ZALTZMAN",
-    "rating": 0,
+    "name": {
+      "first": "andy",
+      "last": "zaltzman"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JENNY ZIGRINO",
-    "rating": 0,
+    "name": {
+      "first": "jenny",
+      "last": "zigrino"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "JOE ZIMMERMAN",
-    "rating": 0,
+    "name": {
+      "first": "joe",
+      "last": "zimmerman"
+    },
+    "rating": null,
     "notes": ""
   },
   {
-    "name": "CHRIS ZITO",
-    "rating": 0,
+    "name": {
+      "first": "chris",
+      "last": "zito"
+    },
+    "rating": null,
     "notes": ""
   }
 ]

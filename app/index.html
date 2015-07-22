@@ -21,9 +21,19 @@
 
 <ul class="comedian-list">
 {{#each comedians }}
-  <li class="comedian-list-item">
+  <li class="comedian-list-item" data-search="{{ name.alias}} {{ name.group }} {{ name.first }} {{ name.middle }} {{ name.last }} {{ name.suffix }}">
     <p class="h2 name">
-      {{ name.last }}, {{ name.first }}
+      {{#if name.alias }}
+        {{ name.alias }}
+      {{/if}}
+
+      {{#if name.group }}
+        {{ name.group }}
+      {{/if}}
+
+      {{#if name.first }}
+        {{ name.first }} {{ name.middle }} {{ name.last }} {{ name.suffix }}
+      {{/if}}
     </p>
   </li>
 {{/each}}
